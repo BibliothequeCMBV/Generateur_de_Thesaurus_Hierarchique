@@ -62,6 +62,17 @@ from collections import defaultdict, Counter
 from typing import Dict, List, Tuple, Union, Optional, Any
 import argparse
 
+# Fonction utilitaire pour rendre les objets JSON-sérialisables
+def convert_numpy(obj):
+    if isinstance(obj, (np.integer, np.int64, np.int32)):
+        return int(obj)
+    elif isinstance(obj, (np.floating, np.float64, np.float32)):
+        return float(obj)
+    elif isinstance(obj, (np.ndarray,)):
+        return obj.tolist()
+    else:
+        raise TypeError(f"Type {type(obj)} not serializable")
+
 # Configuration du logging
 logging.basicConfig(
     level=logging.INFO,
@@ -872,7 +883,7 @@ class ThesaurusHierarchyBuilder:
         try:
             agg_clustering = AgglomerativeClustering(
                 n_clusters=n_clusters,
-                affinity='euclidean',
+                metric='euclidean',
                 linkage='ward'
             )
             agg_labels = agg_clustering.fit_predict(self.embeddings)
@@ -1241,7 +1252,7 @@ class ThesaurusHierarchyBuilder:
         try:
             metrics_path = self.output_dir / "classification_metrics.json"
             with open(metrics_path, "w", encoding="utf-8") as f:
-                json.dump(metrics, f, indent=4, ensure_ascii=False)
+                json.dump(metrics, f, indent=4, ensure_ascii=False, default=convert_numpy)
             logger.info(f"Métriques de classification sauvegardées dans {metrics_path}")
         except Exception as e:
             logger.error(f"Erreur lors de la sauvegarde des métriques: {e}")

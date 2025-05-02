@@ -35,9 +35,6 @@ def main():
         output_dir=args.output_dir
     )
 
-    # Configuration spéciale
-    builder.save_model = args.save_model
-
     if not args.only_export:
         # Traitement complet
         builder.load_data(csv_file=args.csv)
