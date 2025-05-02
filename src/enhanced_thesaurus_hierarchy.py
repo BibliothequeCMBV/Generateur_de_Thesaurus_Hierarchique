@@ -1290,7 +1290,7 @@ class ThesaurusHierarchyBuilder:
                 if pd.notna(row.get('skos:altLabel')):
                     alt_labels = row['skos:altLabel']
                     if isinstance(alt_labels, str):
-                        for alt in re.split(r';|,', alt_labels):
+                        for alt in re.split(r'##', alt_labels):
                             alt = alt.strip()
                             if alt:
                                 g.add((concept_uri, SKOS.altLabel, Literal(alt, lang=self.language)))
@@ -1299,7 +1299,7 @@ class ThesaurusHierarchyBuilder:
                 if pd.notna(row.get('skos:hiddenLabel')):
                     hidden_labels = row['skos:hiddenLabel']
                     if isinstance(hidden_labels, str):
-                        for hidden in re.split(r';|,', hidden_labels):
+                        for hidden in re.split(r'##', hidden_labels):
                             hidden = hidden.strip()
                             if hidden:
                                 g.add((concept_uri, SKOS.hiddenLabel, Literal(hidden, lang=self.language)))
@@ -1332,16 +1332,6 @@ class ThesaurusHierarchyBuilder:
                     g.add((broader_concept, RDF.type, SKOS.Concept))
                     g.add((broader_concept, SKOS.prefLabel, Literal(row['main_category'], lang=self.language)))
                     g.add((broader_concept, SKOS.inScheme, scheme_uri))
-                
-                # Ajouter les relations related s'il y a des related_terms
-                if pd.notna(row.get('related_terms')):
-                    related_terms = row['related_terms']
-                    if isinstance(related_terms, list):
-                        for head, dep, relation in related_terms:
-                            related_uri = self.namespace[
-                                re.sub(r'[^\w]', '_', dep.lower())[:30]
-                            ]
-                            g.add((concept_uri, SKOS.related, related_uri))
             
             # Sauvegarder en Turtle (.ttl)
             ttl_path = self.output_dir / "thesaurus_export.ttl"
