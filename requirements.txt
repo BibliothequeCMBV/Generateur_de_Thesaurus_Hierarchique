@@ -1,0 +1,10 @@
+pandas
+numpy
+scikit-learn
+spacy
+sentence-transformers
+networkx
+matplotlib
+plotly
+rdflib
+python-louvain

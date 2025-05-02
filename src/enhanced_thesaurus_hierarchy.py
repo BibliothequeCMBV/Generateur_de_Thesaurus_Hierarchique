@@ -208,57 +208,96 @@ class ThesaurusHierarchyBuilder:
             Dict[str, List[str]]: Dictionnaire des catégories avec leurs termes représentatifs
         """
         return {
-            "instruments": [
-                "instrument", "violon", "clavecin", "orgue", "luth", "viole", "flûte", 
-                "hautbois", "trompette", "cordes", "vents", "clavier", "percussion", 
-                "théorbe", "basson", "sacqueboute", "viole de gambe", "archiluth"
+            "Instruments de musique": [
+                "instrument", "violon", "clavecin", "orgue", "luth", "viole", "viole de gambe", 
+                "flûte", "hautbois", "trompette", "cordes", "vents", "clavier", "percussion",
+                "théorbe", "basson", "sacqueboute", "archiluth"
             ],
-            "compositeurs": [
-                "bach", "vivaldi", "haendel", "telemann", "couperin", "monteverdi", 
+            "Compositeurs baroques": [
+                "bach", "vivaldi", "haendel", "telemann", "couperin", "monteverdi",
                 "scarlatti", "purcell", "lully", "rameau", "buxtehude", "corelli",
                 "charpentier", "pergolesi", "albinoni", "marais", "gabrieli"
             ],
-            "formes_musicales": [
-                "suite", "sonate", "concerto", "fugue", "toccata", "opéra", "cantate", 
+            "Formes musicales": [
+                "suite", "sonate", "concerto", "fugue", "toccata", "opéra", "cantate",
                 "oratorio", "passion", "prélude", "aria", "ricercar", "fantaisie",
                 "ouverture", "sarabande", "gigue", "courante", "allemande", "menuet",
                 "partita", "variation", "chaconne", "passacaille"
             ],
-            "techniques": [
-                "basso continuo", "contrepoint", "improvisation", "ornement", "variation", 
-                "diminution", "articulation", "phrasé", "réalisation", "trille",
-                "mordant", "appoggiature", "port de voix", "coulé", "tierce de picardie"
+            "Techniques musicales": [
+                "basso continuo", "contrepoint", "improvisation", "ornement", "variation",
+                "diminution", "articulation", "phrasé", "réalisation", "trille", "mordant",
+                "appoggiature", "port de voix", "coulé", "tierce de picardie"
             ],
-            "périodes": [
-                "renaissance", "baroque", "classique", "pré-baroque", "maniérisme", 
+            "Périodes et styles historiques": [
+                "renaissance", "baroque", "classique", "pré-baroque", "maniérisme",
                 "rococo", "galant", "ancien régime", "baroque ancien", "moyen baroque",
                 "baroque tardif", "prima prattica", "seconda prattica"
             ],
-            "nationalités": [
-                "italien", "allemand", "français", "anglais", "espagnol", "flamand", 
+            "Nationalités et écoles musicales": [
+                "italien", "allemand", "français", "anglais", "espagnol", "flamand",
                 "napolitain", "vénitien", "romain", "germanique", "hollandais",
                 "bohémien", "autrichien", "portugais", "polonais"
             ],
-            "théorie_musicale": [
-                "mode", "tempérament", "harmonie", "cadence", "accord", "tonalité", 
+            "Théorie musicale": [
+                "mode", "tempérament", "harmonie", "cadence", "accord", "tonalité",
                 "modulation", "basse chiffrée", "contrebasse", "mésotonique",
                 "intervalle", "consonance", "dissonance", "règle d'octave", "dominante",
                 "sous-dominante", "tonique", "mineur", "majeur", "dorien", "lydien", "mixolydien"
             ],
-            "pratique_exécution": [
-                "authentique", "historique", "interprétation", "édition", 
-                "manuscrit", "partition", "traité", "sources", "ornementation",
-                "improvisation", "effectif", "réduction", "réalisation", "temperament",
-                "inégalités", "notes inégales", "instrumentation"
+            "Pratique d'exécution": [
+                "authentique", "historique", "interprétation", "édition", "manuscrit",
+                "partition", "traité", "sources", "ornementation", "improvisation",
+                "effectif", "réduction", "réalisation", "temperament", "inégalités",
+                "notes inégales", "instrumentation"
             ],
-            "lieux_et_institutions": [
-                "chapelle", "église", "cathédrale", "cour", "palais", "opéra", 
+            "Lieux et institutions musicales": [
+                "chapelle", "église", "cathédrale", "cour", "palais", "opéra",
                 "conservatoire", "théâtre", "versailles", "venise", "rome", "leipzig",
                 "vienne", "dresde", "paris", "château", "salon", "académie"
-            ]
+            ],
+            "Fêtes de saints": [
+                "saint", "sainte", "célébration", "patron", "martyre"
+            ],
+            "Temps liturgiques": [
+                "avent", "carême", "noël", "pâques", "pentecôte", "épiphanie", "temps ordinaire"
+            ],
+            "Offices liturgiques": [
+                "messe", "vêpres", "complies", "matines", "laudes", "prime", "tierce", "sexte", "none"
+            ],
+            "Fêtes civiles et populaires": [
+                "bal", "banquet", "carnaval", "cortège", "spectacle de rue", "feu d'artifice", "divertissement", "fête"
+            ],
+            "Événements officiels": [
+                "couronnement", "naissance", "baptême", "mariage royal", "convalescence", "cartel"
+            ],
+            "Structures sociales": [
+                "association", "académie", "confrérie"
+            ],
+            "Activités musicales": [
+                "création d'œuvre", "diffusion de la musique", "éducation musicale", "enseignement", "patronage"
+            ],
+            "Courants artistiques": [
+                "classicisme", "réalisme", "symbolisme", "exotisme", "galanterie", "humanisme", "ésotérisme"
+            ],
+            "Concepts esthétiques": [
+                "imitation", "influence", "spiritualité", "comique", "regard"
+            ],
+            "Genres littéraires": [
+                "conte", "fable", "dialogue", "livret", "pastiches", "poésie", "chanson"
+            ],
+            "Documents et sources": [
+                "biographie", "correspondance", "catalogue", "inventaire", "essai", "ouvrage", "presse périodique", "document d'archives", "recueil", "livre religieux", "source manuscrite"
+            ],
+            "Genres de théâtre": [
+                "théâtre lyrique", "théâtre parlé", "ballet", "tragédie lyrique"
+            ],
+            "Sciences et musique": [
+                "acoustique", "mathématique", "physique", "instrument de mesure"
+            ],
         }
 
-    def load_data(self, csv_file: str, term_column: str = "prefLabel") -> pd.DataFrame:
+    def load_data(self, csv_file: str, term_column: str = "skos:prefLabel") -> pd.DataFrame:
         """
         Charge et prépare les données depuis un fichier CSV.
         
@@ -286,7 +325,7 @@ class ThesaurusHierarchyBuilder:
                 raise FileNotFoundError(f"Le fichier {csv_file} n'existe pas")
             
             # Charger le CSV
-            self.df = pd.read_csv(csv_file)
+            self.df = pd.read_csv(csv_file, sep="\t")
             logger.info(f"Données chargées: {len(self.df)} termes trouvés")
             logger.info(f"Colonnes disponibles: {', '.join(self.df.columns)}")
             
@@ -297,7 +336,7 @@ class ThesaurusHierarchyBuilder:
                 
                 # Essayer de deviner la colonne de termes
                 potential_cols = [col for col in available_cols if 
-                                any(term in col.lower() for term in ['label', 'term', 'concept', 'mot', 'clé'])]
+                                any(term in col.lower() for term in ['prefLabel', 'label', 'term', 'concept', 'mot', 'clé'])]
                 
                 if potential_cols:
                     term_column = potential_cols[0]
