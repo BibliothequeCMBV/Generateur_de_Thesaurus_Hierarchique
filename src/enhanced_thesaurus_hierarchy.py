@@ -201,7 +201,7 @@ class ThesaurusHierarchyBuilder:
         self.metrics = {}               # Métriques d'évaluation
         
         # Configuration des exports
-        self.namespace = Namespace(f"http://example.org/skos/{domain}/")
+        self.namespace = Namespace(f"http://cmbv.fr/skos/{domain}/")
         
         # Timestamp pour identifier cette session
         self.timestamp = int(time.time())
@@ -1271,7 +1271,7 @@ class ThesaurusHierarchyBuilder:
             g = Graph()
             g.bind("skos", SKOS)
             g.bind("rdfs", RDFS)
-            g.bind("ex", self.namespace)
+            g.bind("cmbv", self.namespace)
             
             # Créer un ConceptScheme
             scheme_uri = self.namespace[f"{self.domain}_scheme"]
