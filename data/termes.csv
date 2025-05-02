@@ -1,0 +1,2488 @@
+URI	rdf:type	skos:prefLabel	skos:altLabel	skos:hiddenLabel	skos:definition	skos:narrower	skos:broader	skos:scopeNote	skos:changeNote
+000001	skos:Concept	~termes non classés							PMB6
+000002	skos:Concept	A cappella							PMB23598
+000003	skos:Concept	Abbaye							
+000004	skos:Concept	Abonnement de musique							
+000005	skos:Concept	Abrégé							
+000006	skos:Concept	Absoute					001276		EP346687
+000007	skos:Concept	Acacciatura							EP345645
+000008	skos:Concept	Académie	Institut						EP345646;PMB1100
+000009	skos:Concept	Académie de danse					000008		EP345647
+000010	skos:Concept	Académie de musique					000008		EP345648;PMB1101
+000011	skos:Concept	Académie de peinture							
+000012	skos:Concept	Académie de poésie					000008		EP345649
+000013	skos:Concept	Académie provinciale					000008		EP345650
+000014	skos:Concept	Académie scientifique					000008		EP345651
+000015	skos:Concept	Accent					000048		EP345721
+000016	skos:Concept	Accent psalmodique							
+000017	skos:Concept	Accentuation							EP345652
+000018	skos:Concept	Accident							
+000019	skos:Concept	Accompagnateur					001476		EP346426
+000020	skos:Concept	Accompagnement							EP345654;PMB1102
+000021	skos:Concept	Accompagnement instrumental							EP345661
+000022	skos:Concept	Accord					001050		EP346029;PMB1104
+000023	skos:Concept	Accord d'instrument							EP345662
+000024	skos:Concept	Accordeur							
+000025	skos:Concept	Acoustique							EP345663;PMB1106
+000026	skos:Concept	Acoustique des cordes					000025		EP345664
+000027	skos:Concept	Acoustique d'un lieu					000025		EP345682
+000028	skos:Concept	Acte							EP345685
+000029	skos:Concept	Acte de décès							
+000030	skos:Concept	Acte de l'état civil					000729		EP345986
+000031	skos:Concept	Acte de mariage					000030		EP345987
+000032	skos:Concept	Acte de naissance							
+000033	skos:Concept	Acte de vente							
+000034	skos:Concept	Acte notarié					000729		EP345989
+000035	skos:Concept	Acteur	comédien##comédienne##tragédien##tragédienne						EP345686;PMB1109
+000036	skos:Concept	Actio							
+000037	skos:Concept	Action dramatique							EP345694
+000038	skos:Concept	Activité musicale							EP345703
+000039	skos:Concept	Actrice					000035		EP345687;PMB1110
+000040	skos:Concept	Adaptation d'oeuvre musicale							EP345704
+000041	skos:Concept	Administration d'une institution					002480		EP347008
+000042	skos:Concept	Adresse							EP345705
+000043	skos:Concept	Adresse d'éditeur					000042		EP345706
+000044	skos:Concept	Affect					000870		EP346082;PMB1111
+000045	skos:Concept	Affiche							EP345707
+000046	skos:Concept	Agnus							
+000047	skos:Concept	Agogique							EP345708
+000048	skos:Concept	Agrément							EP345720;PMB1112
+000049	skos:Concept	Air					001544		EP346603;PMB1113
+000050	skos:Concept	Air à boire					000049		EP346604;PMB1114
+000051	skos:Concept	Air à chanter							
+000052	skos:Concept	Air à danser							EP345735;PMB1116
+000053	skos:Concept	Air à manger							PMB1117
+000054	skos:Concept	Air bachique							
+000055	skos:Concept	Air de ballet					000981		EP346517
+000056	skos:Concept	Air de comédie					000981		EP346518
+000057	skos:Concept	Air de concert							PMB1119
+000058	skos:Concept	Air de cour					000049		EP346605;PMB1120
+000059	skos:Concept	Air de danse							
+000060	skos:Concept	Air de dévotion							
+000061	skos:Concept	Air de pantomime							
+000062	skos:Concept	Air d'opéra							PMB1118
+000063	skos:Concept	Air espagnol					000049		EP346606;PMB1123
+000064	skos:Concept	Air instrumental					001533		EP346565;PMB1124
+000065	skos:Concept	Air italien					000049		EP346607;PMB1125
+000066	skos:Concept	Air napolitain							PMB1126
+000067	skos:Concept	Air patriotique							
+000068	skos:Concept	Air populaire							PMB23126
+000069	skos:Concept	Air sérieux					000049		EP346608;PMB1127
+000070	skos:Concept	Air spirituel					000049		EP346609;PMB1128
+000071	skos:Concept	Air tendre							
+000072	skos:Concept	Air turc							PMB1130
+000073	skos:Concept	Air vocal							EP345762
+000074	skos:Concept	Allégorie					001830		EP346771
+000075	skos:Concept	Allemande					000052		EP345736;PMB1133
+000076	skos:Concept	Almanach							EP345763;PMB22894
+000077	skos:Concept	Almanach musical							PMB1134
+000078	skos:Concept	Almanach royal					000076		EP345764
+000079	skos:Concept	Altération							
+000080	skos:Concept	Altération accidentelle							
+000081	skos:Concept	Altiste							
+000082	skos:Concept	Alto							PMB1135
+000083	skos:Concept	Alto (voix)					000413		EP346430
+000084	skos:Concept	Ambitus							
+000085	skos:Concept	Âme d'instrument à archet							
+000086	skos:Concept	Amphigouri							
+000087	skos:Concept	Amplitude d'un son							
+000088	skos:Concept	Ana							
+000089	skos:Concept	Anapeste							
+000090	skos:Concept	Anche					000890		EP346109
+000091	skos:Concept	Anche à pirouette							
+000092	skos:Concept	Anche double							
+000093	skos:Concept	Anche faible							
+000094	skos:Concept	Anche forte							
+000095	skos:Concept	Anche libre							
+000096	skos:Concept	Anche lippale							
+000097	skos:Concept	Anche simple							
+000098	skos:Concept	Saint André							
+000099	skos:Concept	Angelique							
+000100	skos:Concept	Angelus							
+000101	skos:Concept	Saints anges gardiens							
+000102	skos:Concept	Anglaise							
+000104	skos:Concept	Annonciation							
+000105	skos:Concept	Annonciation de la Vierge Marie							PMB1137
+000106	skos:Concept	Anse de cloche							
+000107	skos:Concept	Anthem							PMB1138
+000108	skos:Concept	Anthologie					001975		EP346819
+000109	skos:Concept	Antienne							EP345768;PMB1139
+000110	skos:Concept	Antienne à la Vierge Marie						Salve Regina, Alma Redemptoris, Ave Regina, Regina Caeli, Speciosa facta est, Inviolata, Sub tuum.	PMB1140
+000111	skos:Concept	Antienne à Marie					000109		EP345769
+000112	skos:Concept	Antienne au Saint Sacrement							PMB1141
+000113	skos:Concept	Antienne de communion							
+000114	skos:Concept	Antienne d'offertoire							
+000115	skos:Concept	Antiphonaire					001283		EP346361
+000116	skos:Concept	Saint Antoine de Padoue							
+000117	skos:Concept	Apôtre	Apôtres					Isti sunt qui viventes	PMB1142
+000118	skos:Concept	Apôtres							
+000119	skos:Concept	Appoggiature					000048		EP345722
+000120	skos:Concept	Apprentissage					000789		EP346045
+000121	skos:Concept	Archet					000888		EP346097;PMB1143
+000122	skos:Concept	Archetier					000883		EP346089
+000123	skos:Concept	Archiluth							
+000124	skos:Concept	Architecte							EP345770
+000125	skos:Concept	Architecture					000244		EP345801;PMB1144
+000126	skos:Concept	Architecture de théâtre					000691		EP345935
+000127	skos:Concept	Archives							EP345771;PMB23320
+000128	skos:Concept	Argent							
+000129	skos:Concept	Argument							
+000130	skos:Concept	Aria					000049		EP346610;PMB1145
+000131	skos:Concept	Ariette					000049		EP346611;PMB1146
+000132	skos:Concept	Ariette instrumentale							PMB1147
+000133	skos:Concept	Arithmétique							
+000134	skos:Concept	Arlequin							PMB1148
+000136	skos:Concept	Armoiries							EP345773;PMB1149
+000137	skos:Concept	Armomes							
+000138	skos:Concept	Arpège							
+000139	skos:Concept	Arpègement					000048		EP345723
+000140	skos:Concept	Arpeggione							PMB23293
+000141	skos:Concept	Arrangement							EP345774
+000142	skos:Concept	Arrangeur					001476		EP346427
+000143	skos:Concept	Ars antiqua							PMB1150
+000144	skos:Concept	Ars nova							PMB1151
+000145	skos:Concept	Art baroque							PMB1152
+000146	skos:Concept	Art de cour							PMB23035
+000147	skos:Concept	Art de la table							PMB23034
+000148	skos:Concept	Art décoratif							PMB1153
+000149	skos:Concept	Art du spectacle							PMB1154
+000150	skos:Concept	Art du théâtre							PMB1155
+000151	skos:Concept	Art équestre							PMB1156
+000152	skos:Concept	Art musical							PMB23481
+000153	skos:Concept	Art théâtral							PMB1157
+000154	skos:Concept	Art vocal							PMB1158
+000155	skos:Concept	Article de périodique							PMB1159
+000156	skos:Concept	Articulation							
+000157	skos:Concept	Articulation musicale							EP345776
+000158	skos:Concept	Arts graphiques							
+000159	skos:Concept	Ascension							PMB1160
+000160	skos:Concept	Aspersion							
+000161	skos:Concept	Aspiration							
+000162	skos:Concept	Association							
+000163	skos:Concept	Association de concerts							
+000164	skos:Concept	Association de joueurs d'instruments					000165		EP345779
+000165	skos:Concept	Association de musiciens							EP345778
+000166	skos:Concept	Assomption							PMB1161
+000167	skos:Concept	Atelier							EP488885
+000168	skos:Concept	Atelier de copistes					000167		EP345781
+000169	skos:Concept	Atelier de facteurs							
+000170	skos:Concept	Atelier de luthiers							
+000171	skos:Concept	Atelier d'imprimeurs					000167		EP345782
+000172	skos:Concept	Atlas							PMB23430
+000173	skos:Concept	Au sérieux							
+000174	skos:Concept	Aubade							
+000176	skos:Concept	Auteur							EP345783
+000177	skos:Concept	Autobiographie							EP345786
+000178	skos:Concept	Autographe							PMB23358
+000179	skos:Concept	Automate							PMB23354
+000180	skos:Concept	Automne musical							PMB24542
+000181	skos:Concept	Avant-propos							
+000182	skos:Concept	Ave Maria							
+000183	skos:Concept	Avent							PMB1163
+000184	skos:Concept	Avent, dimanche i							
+000185	skos:Concept	Avent, dimanche ii							
+000186	skos:Concept	Avent, dimanche iii							
+000187	skos:Concept	Avent, dimanche iv							
+000188	skos:Concept	Avertissement							
+000189	skos:Concept	Babiole							PMB1164
+000190	skos:Concept	Bacchanale							PMB1165
+000191	skos:Concept	Bal							EP345789;PMB1166
+000192	skos:Concept	Bal masqué					000191		EP345790
+000193	skos:Concept	Baladin							
+000194	skos:Concept	Balancement							
+000195	skos:Concept	Ballade							PMB1167
+000196	skos:Concept	Ballade poétique							
+000197	skos:Concept	Ballet					001615		EP346529;PMB1168
+000198	skos:Concept	Ballet à entrées							
+000199	skos:Concept	Ballet bouffon							PMB1171
+000200	skos:Concept	Ballet comique							PMB1172
+000201	skos:Concept	Ballet d'action							PMB24536
+000202	skos:Concept	Ballet de collège							
+000203	skos:Concept	Ballet de cour					001615		EP346531;PMB1173
+000204	skos:Concept	Ballet en musique							PMB23602
+000205	skos:Concept	Ballet héroïque							PMB1174
+000206	skos:Concept	Ballet tragique							
+000207	skos:Concept	Ballet-mascarade							EP345795
+000208	skos:Concept	Ballet-opéra							EP345796
+000209	skos:Concept	Ballet-pantomime					001627		EP346543;PMB24535
+000210	skos:Concept	Banquet							
+000211	skos:Concept	Baptême					001275		EP346684
+000212	skos:Concept	Sainte Barbe							
+000213	skos:Concept	Barcarolle							
+000214	skos:Concept	Saint Barnabé							
+000215	skos:Concept	Barrage							
+000216	skos:Concept	Barre de mesure							
+000218	skos:Concept	Baryton							
+000219	skos:Concept	Baryton instrumental							EP345797
+000220	skos:Concept	Bas dessus voix							
+000221	skos:Concept	Basilique							
+000222	skos:Concept	Basse chiffrée					000223		EP345656
+000223	skos:Concept	Basse continue					000020		EP345655;PMB1176
+000224	skos:Concept	Basse contrainte							
+000225	skos:Concept	Basse d'alberti							
+000226	skos:Concept	Basse de clavecin							
+000227	skos:Concept	Basse de viole d'amour							PMB23298
+000228	skos:Concept	Basse de violon							PMB24514
+000229	skos:Concept	Basse fondamentale					001050		EP346030
+000230	skos:Concept	Basse instrumentale					001149		EP346236
+000231	skos:Concept	Basse obligée					000020		EP345658
+000232	skos:Concept	Basse obstinée					000020		EP345799
+000233	skos:Concept	Basse taille instrumentale							EP347073
+000234	skos:Concept	Basse taille voix					000413		EP346439
+000235	skos:Concept	Basse (voix)							
+000236	skos:Concept	Basson							PMB1178
+000237	skos:Concept	Bassoniste					001152		EP346442
+000238	skos:Concept	Battant de cloche							
+000239	skos:Concept	Battement							
+000240	skos:Concept	Batterie de tambour					000776		EP346018
+000241	skos:Concept	Batterie instrumentale					000048		EP345724
+000242	skos:Concept	Batterie vocale							
+000243	skos:Concept	Batteur de mesure					001476		EP346428
+000244	skos:Concept	Beaux-arts							EP345800
+000245	skos:Concept	Bec							
+000246	skos:Concept	Bécarre							EP345805
+000247	skos:Concept	Belle danse					000669		EP345918
+000248	skos:Concept	Bémol							
+000249	skos:Concept	Bénédiction du Saint Sacrement							
+000250	skos:Concept	Benedictus							
+000251	skos:Concept	Berceuse							PMB1179
+000252	skos:Concept	Bernard							
+000253	skos:Concept	Bible					001284		EP346357
+000254	skos:Concept	Bibliographie							PMB22880
+000255	skos:Concept	Bibliothécaire							EP345807
+000256	skos:Concept	Bibliothèque							EP345808;PMB1181
+000257	skos:Concept	Bibliothèque musicale							
+000258	skos:Concept	Bibliothèque privée					000256		EP345809
+000259	skos:Concept	Biographie							PMB23472
+000260	skos:Concept	Biseau							
+000261	skos:Concept	Blason							
+000262	skos:Concept	Bois							
+000263	skos:Concept	Bois de chêne							
+000264	skos:Concept	Bois de cyprès							
+000265	skos:Concept	Bois de hêtre							
+000266	skos:Concept	Bois de peuplier							
+000267	skos:Concept	Bois de sapin							
+000268	skos:Concept	Bois de tilleul							
+000269	skos:Concept	Bois d'ébène							
+000270	skos:Concept	Bois d'épicéa							
+000271	skos:Concept	Bois d'érable							
+000272	skos:Concept	Bois exotique							
+000273	skos:Concept	Boiserie					002153		EP345804
+000274	skos:Concept	Bouffe							
+000275	skos:Concept	Bouffon de comédie					000506		EP345689
+000276	skos:Concept	Bouffonnerie							
+000277	skos:Concept	Bouquet					001815		EP346745
+000278	skos:Concept	Bourdon					000020		EP345659
+000279	skos:Concept	Bourgeoisie					002493		EP347048
+000280	skos:Concept	Bourrée					000052		EP345737
+000281	skos:Concept	Bourrée vocale							
+000282	skos:Concept	Boutade							
+000283	skos:Concept	Boyau							
+000284	skos:Concept	Branle					000052		EP345738
+000285	skos:Concept	Brève							
+000286	skos:Concept	Bréviaire					001283		EP346362;PMB23043
+000287	skos:Concept	Brisé					000048		EP345725
+000288	skos:Concept	Brocart							EP345816
+000289	skos:Concept	Broderie							
+000290	skos:Concept	Brunette					000049		EP346612;PMB1183
+000291	skos:Concept	Brunette instrumentale							PMB1184
+000292	skos:Concept	Bucolique							
+000293	skos:Concept	Budget des spectacles							
+000294	skos:Concept	Buffet d'orgue							
+000295	skos:Concept	Burlesque							EP345817
+000296	skos:Concept	Cabinet de lecture							
+000297	skos:Concept	Cachet							
+000298	skos:Concept	Cadence harmonique							EP345819
+000299	skos:Concept	Cadence improvisée							
+000300	skos:Concept	Cadence ornementale							
+000301	skos:Concept	Cadenza							
+000302	skos:Concept	Caisse de résonance							
+000303	skos:Concept	Calligraphie							PMB1185
+000304	skos:Concept	Canane							
+000305	skos:Concept	Canarie					000052		EP345739
+000306	skos:Concept	Canon					000049		EP346613;PMB1186
+000307	skos:Concept	Canonisation							EP345821
+000308	skos:Concept	Cantate					001544		EP346623;PMB1187
+000309	skos:Concept	Cantate allemande profane							PMB1188
+000310	skos:Concept	Cantate allemande sacrée							PMB1189
+000311	skos:Concept	Cantate burlesque							PMB23059
+000312	skos:Concept	Cantate française					000308		EP346624;PMB1190
+000313	skos:Concept	Cantate italienne					000308		EP346625;PMB1191
+000314	skos:Concept	Cantate pieuse							
+000315	skos:Concept	Cantate religieuse							
+000316	skos:Concept	Cantate sacrée							
+000317	skos:Concept	Cantate scénique							
+000318	skos:Concept	Cantate spirituelle					000308		EP346626;PMB1192
+000319	skos:Concept	Cantatille					000049		EP346614;PMB1193
+000320	skos:Concept	Cantatillette							
+000321	skos:Concept	Cantatrice							EP345826
+000322	skos:Concept	Cantilène							
+000323	skos:Concept	Cantique						chant ou prière autre qu'un psaume, rédigé dans une forme versifiée, dérivé de la Bible et utilisé dans le culte liturgique de l'Église.	EP347079;PMB1195
+000324	skos:Concept	Cantique biblique							
+000325	skos:Concept	Cantique biblique paraphrasé							
+000326	skos:Concept	Cantique de la Vierge Marie						Magnificat	PMB1196
+000327	skos:Concept	Cantique de l'Ancien Testament							
+000328	skos:Concept	Cantique de Marie							
+000329	skos:Concept	Cantique de Moïse						Cantemus Domino Gloriose	PMB1197
+000330	skos:Concept	Cantique de Noël					000334		EP347081
+000331	skos:Concept	Cantique de Siméon						Nunc Dimittis	PMB1198
+000332	skos:Concept	Cantique de Zacharie						Benedictus Dominus Deus Israël	PMB1199
+000333	skos:Concept	Cantique des Cantiques							EP345829;PMB1200
+000334	skos:Concept	Cantique en français					000323		EP347080
+000335	skos:Concept	Cantique en latin					000323		EP347085
+000336	skos:Concept	Cantique évangélique							
+000337	skos:Concept	Cantique spirituel						air de dévotion, prière domestique (latin ou français).	EP345830;PMB1201
+000338	skos:Concept	Cantus firmus							PMB22644
+000339	skos:Concept	Canzone alla napolitana							
+000340	skos:Concept	Canzone instrumentale							PMB1202
+000341	skos:Concept	Canzone vocale							PMB1203
+000343	skos:Concept	Canzonetta							PMB23338
+000344	skos:Concept	Canzonette							PMB1204
+000345	skos:Concept	Capitule							
+000346	skos:Concept	Caprice instrumental							PMB1205
+000347	skos:Concept	Caractère de danse					000438		EP345920
+000348	skos:Concept	Caractère d'imprimerie							
+000349	skos:Concept	Carême							PMB1206
+000350	skos:Concept	Carême, dimanche i							
+000351	skos:Concept	Carême, dimanche ii							
+000352	skos:Concept	Carême, dimanche iii							
+000353	skos:Concept	Carême, dimanche iv							
+000354	skos:Concept	Carillon							
+000355	skos:Concept	Carillonneur					001152		EP346443;PMB1207
+000356	skos:Concept	Carnaval							
+000357	skos:Concept	Carrière musicale					000963		EP347055
+000358	skos:Concept	Carrousel							EP345834;PMB1208
+000359	skos:Concept	Carrure					000972		EP346149
+000360	skos:Concept	Carte							
+000361	skos:Concept	Cartel							
+000362	skos:Concept	Castagnettes							
+000363	skos:Concept	Castrat					000413		EP346432;PMB1209
+000364	skos:Concept	Catalogue							EP345835;PMB23371
+000365	skos:Concept	Catalogue d'auteur							
+000366	skos:Concept	Catalogue d'éditeur					000364		EP345836
+000367	skos:Concept	Catalogue d'oeuvres					000364		EP345837
+000368	skos:Concept	Catéchisme					000382		EP345843
+000369	skos:Concept	Cathédrale							EP345839
+000370	skos:Concept	Sainte Catherine d'Alexandrie							
+000371	skos:Concept	Catholicisme					000440		EP345862
+000373	skos:Concept	Cembal d'amore							PMB23296
+000374	skos:Concept	Censure							
+000375	skos:Concept	Centre de Musique Baroque de Versailles							PMB1210
+000376	skos:Concept	Cérémonial					001283		EP346363;PMB1211
+000377	skos:Concept	Cérémonie					000912		EP346126
+000378	skos:Concept	Cérémonie de cour					000377		EP346127
+000379	skos:Concept	Cérémonie de la cour							
+000380	skos:Concept	Cérémonie funèbre							
+000381	skos:Concept	Cérémonie liturgique							EP345841
+000382	skos:Concept	Cérémonie non liturgique							EP345842
+000383	skos:Concept	Cérémonie religieuse					000377		EP346128
+000384	skos:Concept	Cérémonie révolutionnaire							
+000385	skos:Concept	Cerveau de cloche							
+000386	skos:Concept	Dynamique							
+000387	skos:Concept	Chabrette							PMB1212
+000388	skos:Concept	Chaconne					000052		EP345740;PMB1213
+000389	skos:Concept	Chaire de Pierre à Alexandrie							
+000390	skos:Concept	Chaire de Pierre à Rome							
+000391	skos:Concept	Chalemie							
+000392	skos:Concept	Chalumeau							
+000393	skos:Concept	Chanoine							
+000394	skos:Concept	Chanson					001815		EP346746;PMB1214
+000395	skos:Concept	Chanson à boire					000394		EP346747;PMB1215
+000396	skos:Concept	Chanson à danser					000394		EP346748;PMB1216
+000397	skos:Concept	Chanson de colportage							PMB1217
+000398	skos:Concept	Chanson de geste							
+000399	skos:Concept	Chanson pastorale							PMB1218
+000400	skos:Concept	Chanson patriotique							PMB23459
+000401	skos:Concept	Chanson populaire					000394		EP346749;PMB1219
+000402	skos:Concept	Chanson spirituelle							EP345849;PMB1220
+000403	skos:Concept	Chansonnette					000394		EP346751
+000404	skos:Concept	Chansonnier					001975		EP346820;PMB1221
+000405	skos:Concept	Chansons							PMB24538
+000406	skos:Concept	Chant							EP345850;PMB1222
+000407	skos:Concept	Chant d'oiseau							
+000408	skos:Concept	Chant patriotique							
+000409	skos:Concept	Chant religieux							PMB1224
+000410	skos:Concept	Chant révolutionnaire					000049		EP346615
+000411	skos:Concept	Chant royal							
+000412	skos:Concept	Chant sur le livre					001116		EP346212
+000413	skos:Concept	Chanteur					001476		EP346429;PMB1225
+000414	skos:Concept	Chanteuse					000413		EP346433;PMB1226
+000415	skos:Concept	Chantre					001494		EP478177
+000416	skos:Concept	Chapelle							EP345852
+000417	skos:Concept	Chapitre de chanoines					000532		EP347041
+000418	skos:Concept	Charge					000963		EP347056
+000419	skos:Concept	Charivari							PMB23600
+000420	skos:Concept	Chasse à cour							
+000421	skos:Concept	Chef d'orchestre							EP345854;PMB22962
+000422	skos:Concept	Chevalet					000888		EP346098
+000423	skos:Concept	Cheville							
+000424	skos:Concept	Chevillier							
+000425	skos:Concept	Chiavette					002405		EP346985
+000426	skos:Concept	Chiffrage							EP345855;PMB23475
+000427	skos:Concept	Chinoiserie					000868		EP346078
+000428	skos:Concept	Chistianisme							PMB22818
+000429	skos:Concept	Chitaronne							PMB23089
+000430	skos:Concept	Chitarrone							PMB1229
+000431	skos:Concept	Choeur							EP345856;PMB1230
+000432	skos:Concept	Choeur d'opéra							PMB22963
+000433	skos:Concept	Choeur instrumental							
+000434	skos:Concept	Choral							PMB1231
+000435	skos:Concept	Choral instrumental							PMB1232
+000436	skos:Concept	Chorale							PMB1233
+000437	skos:Concept	Chorégraphe							EP345860;PMB1234
+000438	skos:Concept	Chorégraphie					000669		EP345919
+000439	skos:Concept	Choriste					000413		EP346434
+000440	skos:Concept	Christianisme							EP345861
+000441	skos:Concept	Chromatisme							EP345865
+000442	skos:Concept	Chroniqueur							
+000443	skos:Concept	Chronomètre					001753		EP346232
+000444	skos:Concept	Chute							
+000445	skos:Concept	Circoncision							
+000446	skos:Concept	Circoncision du Christ							PMB1236
+000447	skos:Concept	Circonstances de création					000654		EP345905
+000448	skos:Concept	Circulation d'oeuvre					000654		EP345906
+000449	skos:Concept	Cistre							PMB23097
+000450	skos:Concept	Citation thématique							
+000451	skos:Concept	Cithare							
+000452	skos:Concept	Clairon							
+000453	skos:Concept	Clarinette							PMB1237
+000454	skos:Concept	Clarinette d'amour							PMB23294
+000455	skos:Concept	Clarinettiste					001152		EP346444
+000456	skos:Concept	Classicisme							EP345868;PMB1238
+000457	skos:Concept	Clavecin							PMB1239
+000458	skos:Concept	Clavecin à maillets							EP345869
+000459	skos:Concept	Clavecin brisé							
+000460	skos:Concept	Clavecin électrique							PMB23418
+000461	skos:Concept	Clavecin oculaire							PMB1240
+000462	skos:Concept	Claveciniste					001152		EP346445;PMB1241
+000463	skos:Concept	Clavicorde							PMB1242
+000464	skos:Concept	Clavier					000892		EP346105
+000465	skos:Concept	Clavier accouplé							
+000466	skos:Concept	Clavier d'écho							
+000467	skos:Concept	Clavier du grand orgue							
+000468	skos:Concept	Clavier du positif							
+000469	skos:Concept	Clavier du récit							
+000470	skos:Concept	Claviers							PMB1243
+000471	skos:Concept	Clé							
+000472	skos:Concept	Clé d'accord							
+000473	skos:Concept	Clé fermée							
+000474	skos:Concept	Clé instrumentale					000890		EP346110
+000475	skos:Concept	Clé ouverte							
+000476	skos:Concept	Cloche					001144		EP346280;PMB1244
+000477	skos:Concept	Collaboration de musiciens					000654		EP345907
+000481	skos:Concept	Collaboration musicien/chorégraphe					000738		EP345696
+000482	skos:Concept	Collaboration musicien/écrivain					000738		EP345697
+000483	skos:Concept	Collaboration musicien/écrivain/chorégraphe					000738		EP345698
+000484	skos:Concept	Collage de textes bibliques							
+000485	skos:Concept	Collection d'instruments de musique							EP345871;PMB1245
+000486	skos:Concept	Collection musicale					000256		EP345810;PMB1246
+000487	skos:Concept	Collectionneur							EP345872
+000488	skos:Concept	Collectionneur de livres					000487		EP345873
+000489	skos:Concept	Collectionneur de musique					000487		EP345874;PMB1248
+000490	skos:Concept	Collectionneur d'instruments de musique					000487		EP345875;PMB1247
+000491	skos:Concept	Collège							EP345876
+000492	skos:Concept	Collège jésuite					000491		EP345877
+000493	skos:Concept	Collégiale							
+000494	skos:Concept	Colophane							
+000495	skos:Concept	Comédie					002320		EP346933;PMB1249
+000497	skos:Concept	Comédie de foire					000495		EP346934
+000498	skos:Concept	Comédie en musique					001615		EP346532;PMB1250
+000499	skos:Concept	Vaudeville							
+000500	skos:Concept	Comédie héroïque							PMB1251
+000501	skos:Concept	Comédie lyrique							EP345878;PMB1252
+000502	skos:Concept	Comédie mêlée d'ariettes							
+000503	skos:Concept	Comédie musicale							PMB22493
+000504	skos:Concept	Comédie-ballet							PMB1253
+000505	skos:Concept	Comédien							
+000506	skos:Concept	Comédien ambulant					000035		EP345688
+000507	skos:Concept	Comédien de foire					000506		EP345690
+000508	skos:Concept	Comédien italien					000035		EP345691
+000509	skos:Concept	Comédienne							
+000510	skos:Concept	Comique							EP345881
+000511	skos:Concept	Commanditaire							EP345882
+000512	skos:Concept	Commedia dell'arte					002329		EP346953;PMB1256
+000513	skos:Concept	Commémoration de tous les défunts							
+000514	skos:Concept	Commerce de musique					000706		EP345946
+000515	skos:Concept	Commerce d'instruments					000706		EP345947
+000516	skos:Concept	Commun de la dédicace d'une église							
+000517	skos:Concept	Commun de la messe							EP345883
+000518	skos:Concept	Commun de plusieurs martyrs							
+000519	skos:Concept	Commun de plusieurs saintes							
+000520	skos:Concept	Commun des abbés							
+000521	skos:Concept	Commun des apôtres							
+000522	skos:Concept	Commun des docteurs							
+000523	skos:Concept	Commun des évangélistes							
+000524	skos:Concept	Commun des pontifes							
+000525	skos:Concept	Commun des saints							
+000526	skos:Concept	Commun des vierges							
+000527	skos:Concept	Commun d'un confesseur non pontife							
+000528	skos:Concept	Commun d'un confesseur pontife							
+000529	skos:Concept	Commun d'un martyr							
+000530	skos:Concept	Commun d'une vierge martyre							
+000531	skos:Concept	Commun d'une vierge non martyre							
+000532	skos:Concept	Communauté religieuse					002492		EP347040
+000533	skos:Concept	Communion							
+000534	skos:Concept	Compagnie de jésus	Jésuites						PMB1257
+000535	skos:Concept	Compas							
+000536	skos:Concept	Compassion de Marie							
+000537	skos:Concept	Complainte					000394		EP346750;PMB23380
+000538	skos:Concept	Complies							EP345884;PMB1258
+000539	skos:Concept	Compositeur					001476		EP346440
+000540	skos:Concept	Composition							PMB1259
+000541	skos:Concept	Composition chorégraphique							
+000542	skos:Concept	Composition du livret					000738		EP345699
+000543	skos:Concept	Composition du papier					001696		EP345961
+000544	skos:Concept	Composition musicale							EP345886
+000545	skos:Concept	Composition par les nombres							
+000546	skos:Concept	Compositrice							PMB1260
+000547	skos:Concept	Compte-rendu					000763		EP346015
+000548	skos:Concept	Comptine							PMB1261
+000549	skos:Concept	Conception de la Vierge Marie							PMB1262
+000550	skos:Concept	Conception de Marie							
+000551	skos:Concept	Concert					002485		EP347009;PMB1263
+000552	skos:Concept	Concert instrumental					001796		EP346567;PMB1264
+000553	skos:Concept	Concert privé							
+000554	skos:Concept	Concert vocal							PMB1265
+000555	skos:Concept	Concerto					001796		EP346568;PMB1266
+000556	skos:Concept	Concerto grosso							PMB1267
+000557	skos:Concept	Concerto pour alto							PMB1268
+000558	skos:Concept	Concerto pour basson							PMB1269
+000559	skos:Concept	Concerto pour clarinette							PMB1270
+000560	skos:Concept	Concerto pour clavecin							PMB1271
+000561	skos:Concept	Concerto pour flûte							PMB1272
+000562	skos:Concept	Concerto pour guitare							PMB1273
+000563	skos:Concept	Concerto pour hautbois							PMB1274
+000564	skos:Concept	Concerto pour orgue							PMB1275
+000565	skos:Concept	Concerto pour piano							PMB1276
+000566	skos:Concept	Concerto pour violon							PMB1277
+000567	skos:Concept	Concerto pour violoncelle							PMB1278
+000568	skos:Concept	Concile de Trente					001980		EP346828
+000569	skos:Concept	Concordant							
+000570	skos:Concept	Concours							
+000571	skos:Concept	Condition de vie du musicien					000572		EP347050
+000572	skos:Concept	Condition sociale					002493		EP347049
+000573	skos:Concept	Conduit							PMB1279
+000574	skos:Concept	Confesseur							PMB1280
+000575	skos:Concept	Confirmation							
+000576	skos:Concept	Confirmation religieuse							
+000578	skos:Concept	Confrérie des ménétriers					000165		EP345780
+000579	skos:Concept	Confutation							
+000580	skos:Concept	Congrégation							
+000581	skos:Concept	Consécration d'église							EP345888
+000582	skos:Concept	Conservatoire de musique							EP345889
+000583	skos:Concept	Consonance							
+000584	skos:Concept	Consort							PMB22434
+000585	skos:Concept	Construction de théâtre					000691		EP345936
+000586	skos:Concept	Construction du livret							EP345890
+000587	skos:Concept	Conte							EP345891;PMB1281
+000588	skos:Concept	Conte musical							PMB1282
+000589	skos:Concept	Continuo							PMB23347
+000590	skos:Concept	Contralto (voix)							
+000591	skos:Concept	Contrat de mariage							
+000592	skos:Concept	Contrebasse							PMB1283
+000593	skos:Concept	Contrebassiste					001152		EP346446
+000594	skos:Concept	Contrebasson							
+000595	skos:Concept	Contre-chant							
+000596	skos:Concept	Contredanse					000670		EP345925;PMB1284
+000597	skos:Concept	Contre-éclisse							
+000598	skos:Concept	Contrefugue							
+000599	skos:Concept	Contrepoint					000776		EP346019;PMB1285
+000600	skos:Concept	Contrepoint figuré							
+000601	skos:Concept	Contrepoint instrumental					000599		EP346020
+000602	skos:Concept	Contrepoint renversable							
+000603	skos:Concept	Contrepoint simple							
+000604	skos:Concept	Contrepoint sur le livre							
+000605	skos:Concept	Contrepoint syncopé							
+000606	skos:Concept	Contrepoint vocal					000599		EP345893
+000607	skos:Concept	Contre-sommier							
+000608	skos:Concept	Contre-ténor (voix)					000413		EP346435
+000609	skos:Concept	Convalescence							EP345894
+000610	skos:Concept	Conversion de Paul							
+000611	skos:Concept	Copie					000706		EP345948
+000612	skos:Concept	Copiste							EP345895;PMB1286
+000613	skos:Concept	Cor							PMB1287
+000614	skos:Concept	Cor anglais							
+000615	skos:Concept	Cor de basset							PMB1288
+000616	skos:Concept	Cor de chasse							
+000617	skos:Concept	Corde					000888		EP346099
+000618	skos:Concept	Corde d'instrument							PMB23096
+000619	skos:Concept	Corde double							
+000620	skos:Concept	Corde en boyau					000617		EP346100
+000621	skos:Concept	Corde en métal							
+000622	skos:Concept	Corde filée							
+000623	skos:Concept	Corde vocale							
+000624	skos:Concept	Cordes							EP345896;PMB1289
+000625	skos:Concept	Cordes sympathiques							
+000626	skos:Concept	Cornemuse					001145		EP346286;PMB1290
+000627	skos:Concept	Cornet à bouquin							PMB1291
+000628	skos:Concept	Cornettiste					001152		EP346447
+000629	skos:Concept	Corniste					001152		EP346448
+000630	skos:Concept	Corporation des ménétriers							
+000631	skos:Concept	Corps résonant							
+000632	skos:Concept	Corps sonore							
+000633	skos:Concept	Corpus Christi							
+000634	skos:Concept	Correspondance							EP345898;PMB22975
+000635	skos:Concept	Corruque							
+000636	skos:Concept	Cortège							EP345899;PMB1292
+000637	skos:Concept	Costume					000691		EP345937;PMB1293
+000638	skos:Concept	Costumier							EP345900
+000639	skos:Concept	Coulade							
+000640	skos:Concept	Coulé					000048		EP345726
+000641	skos:Concept	Coup d'archet					002286		EP346917
+000642	skos:Concept	Coup de langue							
+000643	skos:Concept	Couplet							
+000644	skos:Concept	Cour de Monaco							PMB23116
+000645	skos:Concept	Courante					000052		EP345741
+000646	skos:Concept	Courbe							
+000647	skos:Concept	Courner							
+000648	skos:Concept	Couronnement							EP345902
+000649	skos:Concept	Couronnement de Marie							
+000650	skos:Concept	Couvent					001317		EP346378;PMB1294
+000651	skos:Concept	Couvent de femmes					000650		EP346379
+000652	skos:Concept	Couvent d'hommes							
+000653	skos:Concept	Couvercle					000888		EP346101
+000654	skos:Concept	Création d'oeuvre							EP345904
+000655	skos:Concept	Credo							
+000656	skos:Concept	Crin							EP346394
+000657	skos:Concept	Critique des contemporains					002485		EP347011
+000658	skos:Concept	Critique littéraire							PMB23363
+000659	skos:Concept	Critique musicale							EP345915;PMB1295
+000660	skos:Concept	Critique musicale							
+000661	skos:Concept	Croix							PMB1296
+000662	skos:Concept	Cromorne							PMB22961
+000663	skos:Concept	Cuivre							
+000664	skos:Concept	Cuivres							PMB1297
+000665	skos:Concept	Cymbales							
+000666	skos:Concept	Da capo							
+000667	skos:Concept	Dactyle							
+000668	skos:Concept	Dancerie							PMB1298
+000669	skos:Concept	Danse							EP345917;PMB1300
+000670	skos:Concept	Danse de bal					000669		EP345924
+000671	skos:Concept	Danseur							EP345926
+000672	skos:Concept	Danseuse					000671		EP345927;PMB1301
+000673	skos:Concept	Débat							PMB23367
+000674	skos:Concept	Débit							
+000675	skos:Concept	Déclamation							EP345929;PMB1302;PMB24545
+000676	skos:Concept	Déclamation chantée					002293		EP346919
+000677	skos:Concept	Décollation de Jean-Baptiste							
+000678	skos:Concept	Décor					000691		EP345938;PMB1303
+000679	skos:Concept	Décorateur							EP345930
+000680	skos:Concept	Décoration							PMB23542
+000681	skos:Concept	Décoration de théâtre					000126		EP345931
+000682	skos:Concept	Décoration instrumentale					000892		EP346107
+000683	skos:Concept	Dédicace							EP345932;PMB1304
+000684	skos:Concept	Dédicataire							EP345933
+000685	skos:Concept	Défilé							PMB1305
+000686	skos:Concept	Défunts							
+000687	skos:Concept	Délibération capitulaire					000729		EP345992
+000688	skos:Concept	Demi jeu							
+000689	skos:Concept	Démon							PMB1307
+000690	skos:Concept	Densité							
+000691	skos:Concept	Description de théâtre							EP345934
+000692	skos:Concept	Dessein					000972		EP346150
+000693	skos:Concept	Dessein général					000692		EP346151
+000694	skos:Concept	Dessein particulier					000692		EP346152
+000695	skos:Concept	Dessin							EP345941
+000696	skos:Concept	Dessus instrumental					001149		EP346237
+000697	skos:Concept	Dessus (voix)					000413		EP346436
+000698	skos:Concept	Détaché							
+000699	skos:Concept	Diable							PMB1308
+000700	skos:Concept	Dialogue							EP345942
+000701	skos:Concept	Diapason							
+000702	skos:Concept	Diction							EP345943;PMB22435
+000703	skos:Concept	Dictionnaire							EP345944;PMB23280
+000704	skos:Concept	Didascalie							EP442081;PMB22437
+000705	skos:Concept	Dièse							
+000706	skos:Concept	Diffusion de la musique							EP345945
+000707	skos:Concept	Diffusion du répertoire français					000706		EP345970
+000708	skos:Concept	Diffusion du répertoire italien					002015		EP345971
+000709	skos:Concept	Digression en musique							PMB1309
+000710	skos:Concept	Dimanche							
+000711	skos:Concept	Dimanche de quasimodo	deuxième dimanche de Pâques##dimanche in albis##dimanche de Saint-Thomas##Pâques close##dimanche de la divine Miséricore						
+000712	skos:Concept	Diminution					001671		EP346704;PMB1310
+000713	skos:Concept	Diocèse					000532		EP347042
+000714	skos:Concept	Directeur de maîtrise							
+000715	skos:Concept	Directeur de théâtre							EP345978
+000716	skos:Concept	Direction musicale					002485		EP347012
+000717	skos:Concept	Discographie							PMB23477
+000718	skos:Concept	Disposition							EP345979
+000719	skos:Concept	Dissertation							
+000720	skos:Concept	Dissonance							PMB1311
+000721	skos:Concept	Distique							
+000722	skos:Concept	Dithyrambe							
+000723	skos:Concept	Divertissement							PMB1312
+000724	skos:Concept	Divertissement de cour							EP345981
+000725	skos:Concept	Divertissement d'opéra							EP345982
+000726	skos:Concept	Divertissement royal							EP345983
+000727	skos:Concept	Division du monocorde							
+000728	skos:Concept	Dizain							
+000729	skos:Concept	Document d'archives							EP345985;PMB22902
+000730	skos:Concept	Doigté					002293		EP346914
+000731	skos:Concept	Domine salvum							
+000732	skos:Concept	Double					002449		EP346998
+000733	skos:Concept	Doublé					000048		EP345727
+000734	skos:Concept	Double cadence							
+000735	skos:Concept	Double choeur					000431		EP345857
+000736	skos:Concept	Double fugue							
+000737	skos:Concept	Doublure					000020		EP345660
+000738	skos:Concept	Dramaturgie					000037		EP345695
+000739	skos:Concept	Drame							
+000740	skos:Concept	Drame lyrique							PMB1313
+000741	skos:Concept	Drame musical							PMB22781
+000742	skos:Concept	Drame sacré							
+000743	skos:Concept	Droit							PMB23409
+000744	skos:Concept	Droit d'auteur					000785		EP345950
+000745	skos:Concept	Droit social							PMB23410
+000746	skos:Concept	Duo							EP345996
+000747	skos:Concept	Duo instrumental					000746		EP345997;PMB1314
+000748	skos:Concept	Duo vocal					000746		EP345998;PMB1315
+000749	skos:Concept	Dynastie de musiciens							
+000750	skos:Concept	Ébénisterie							
+000751	skos:Concept	Échanges entre pays					002005		EP347060
+000752	skos:Concept	Échanges polémiques					002485		EP347013
+000753	skos:Concept	Échelle							EP346000
+000754	skos:Concept	Échelle pythagoricienne							
+000755	skos:Concept	Échomètre					001148		EP346229
+000756	skos:Concept	Éclairage scénique							EP454455
+000757	skos:Concept	Éclisse							
+000758	skos:Concept	École de Mannheim							
+000759	skos:Concept	École de musique							EP346013
+000760	skos:Concept	Économie							PMB23427
+000761	skos:Concept	Écossaise							
+000762	skos:Concept	Écrit burlesque							
+000763	skos:Concept	Écrit critique							EP346014
+000764	skos:Concept	Écrit polémique							
+000765	skos:Concept	Écrit satirique							
+000766	skos:Concept	Écriture a cappella					000776		EP346021
+000767	skos:Concept	Écriture chorale					000776		EP346022
+000768	skos:Concept	Écriture en canon							
+000769	skos:Concept	Écriture en double choeur					001839		EP346040
+000770	skos:Concept	Écriture en faux-bourdon							
+000771	skos:Concept	Écriture en imitation					000776		EP346023
+000772	skos:Concept	Écriture en miroir							
+000773	skos:Concept	Écriture fuguée					000771		EP346024
+000774	skos:Concept	Écriture instrumentale					000776		EP346025
+000775	skos:Concept	Écriture mesurée à l'antique					000776		EP346026
+000776	skos:Concept	Écriture musicale							EP346017;PMB1316
+000777	skos:Concept	Écriture polyphonique							
+000778	skos:Concept	Écriture sainte							PMB1317
+000779	skos:Concept	Écriture syllabique					000776		EP346027
+000780	skos:Concept	Écrivain							PMB1318
+000781	skos:Concept	Écuries royales							PMB1319
+000782	skos:Concept	Édifice religieux							
+000783	skos:Concept	Éditeur de musique					001337		EP346387
+000784	skos:Concept	Éditeur de musique parisien					000783		EP346388
+000785	skos:Concept	Édition					000706		EP345949;PMB1320
+000786	skos:Concept	Édition critique							
+000787	skos:Concept	Édition moderne							
+000788	skos:Concept	Édition musicale					000785		EP345951;PMB1321
+000789	skos:Concept	Éducation							EP346044
+000790	skos:Concept	Éducation musicale					000789		EP346046
+000791	skos:Concept	Effectif							EP346052
+000792	skos:Concept	Effectif instrumental							
+000793	skos:Concept	Effectif vocal					000791		EP346053
+000794	skos:Concept	Église							EP346057;PMB1322
+000795	skos:Concept	Églogue					001826		EP346762;PMB1323
+000796	skos:Concept	Eingang							
+000797	skos:Concept	Élan							
+000798	skos:Concept	Élégie							
+000800	skos:Concept	Élévation					001391	Amote deus meus, In conspectu Angelorum , O Amor, ô bonitas, O Domine diligam te,  O misterium ineffabile, Ornate Aras, O victima, Quam bonus es Domine, Serote cognovi veritas,  Stupeten gentes (pour la Purification de Marie), Veni sponsa Christi	EP346691;PMB1324
+000801	skos:Concept	Elocutio							
+000802	skos:Concept	Élocution							EP346059
+000803	skos:Concept	Éloquence							EP346060
+000804	skos:Concept	Embouchure							
+000805	skos:Concept	Enchantement					001830		EP346773
+000806	skos:Concept	Encyclopédie							EP346061;PMB23441
+000807	skos:Concept	Encyclopédiste					001776		EP346733
+000808	skos:Concept	Énergie des modes					000870		EP346083
+000809	skos:Concept	Enfant de choeur					001494		EP478178
+000810	skos:Concept	Enfer					001108		EP346207
+000811	skos:Concept	Enharmonie							PMB23350
+000812	skos:Concept	Enlightenment							PMB1325
+000813	skos:Concept	Enluminure							EP346062
+000814	skos:Concept	Enregistrement							PMB23360
+000815	skos:Concept	Enseigne							
+000816	skos:Concept	Enseignement					000789		EP346047
+000817	skos:Concept	Enseignement de la composition							
+000818	skos:Concept	Enseignement de la danse					000816		EP346048;PMB1326
+000819	skos:Concept	Enseignement de la musique					000816		EP346049;PMB1327
+000820	skos:Concept	Enseignement du chant							
+000821	skos:Concept	Enseignement supérieur							PMB24543
+000822	skos:Concept	Ensemble de chanteurs							EP346063
+000823	skos:Concept	Ensemble de musiciens							
+000824	skos:Concept	Ensemble d'instrumentistes							
+000825	skos:Concept	Ensemble instrumental							
+000826	skos:Concept	Ensemble vocal							
+000827	skos:Concept	Enterrement							
+000828	skos:Concept	Entracte					000981		EP346519
+000829	skos:Concept	Entrée de ballet					000981		EP346520;PMB1328
+000830	skos:Concept	Entrée fuguée							
+000831	skos:Concept	Entrée royale							EP346067
+000832	skos:Concept	Entrée solennelle							EP346068
+000833	skos:Concept	Entretien							PMB23431
+000834	skos:Concept	Envoi							
+000835	skos:Concept	Épiglotte							
+000836	skos:Concept	Épigramme					001827		EP346765
+000837	skos:Concept	Épinette							PMB1329
+000839	skos:Concept	Épiphanie							PMB1330
+000840	skos:Concept	Épitaphe					001815		EP346753
+000841	skos:Concept	Épithalame					001824		EP346758
+000842	skos:Concept	Épître							
+000843	skos:Concept	Épître dédicatoire							EP346069
+000844	skos:Concept	Épître liminaire							EP346070
+000845	skos:Concept	Épopée					001821		EP346071
+000846	skos:Concept	Ésotérisme							EP346072
+000848	skos:Concept	Esprit-saint							PMB1331
+000849	skos:Concept	Esquisse d'oeuvre					001013		EP345909
+000850	skos:Concept	Essai							PMB23414
+000851	skos:Concept	Estampe							EP346073
+000852	skos:Concept	Esthétique							PMB1332
+000853	skos:Concept	Étendue							
+000854	skos:Concept	Ethnomusicologie							PMB22589
+000856	skos:Concept	Étiquette							
+000857	skos:Concept	Étouffement							
+000858	skos:Concept	Étude							PMB23543
+000859	skos:Concept	Étude analytique							PMB23281
+000860	skos:Concept	Eucharistie						Adoramus te Christe, Audite gentes, Cantus dent uberes, Cantemus domino, canticum laudis, Cantemus Domino in hoc enim amoris sacramento, Christe Jesu, Deitas hostia sancta Deitas, Descendite accurite volate, Ecce Panis angelorum, Homo quidam	PMB1333
+000861	skos:Concept	Évangéliaire							
+000862	skos:Concept	Évangile							
+000863	skos:Concept	Éventail							EP346075
+000864	skos:Concept	Exaltation de la croix							
+000865	skos:Concept	Exécution							
+000866	skos:Concept	Ex-libris					000706		EP345955
+000867	skos:Concept	Exorde							
+000868	skos:Concept	Exotisme							EP346077
+000869	skos:Concept	Expression des affects							EP346080;PMB1334
+000870	skos:Concept	Expression des passions							EP346081;PMB1335
+000871	skos:Concept	Expression des sentiments							
+000872	skos:Concept	Expression dramatique							EP346085
+000873	skos:Concept	Extrait de baptême					000729		EP345993
+000874	skos:Concept	Extraits							PMB24530
+000875	skos:Concept	Fable							EP346086;PMB1336
+000876	skos:Concept	Fable chantée							PMB1337
+000877	skos:Concept	Fabrication du papier							
+000878	skos:Concept	Fabriquant de papier							
+000879	skos:Concept	Face							
+000880	skos:Concept	Facsimilé							
+000881	skos:Concept	Facteur de clavecins					000883		EP346090;PMB1341
+000882	skos:Concept	Facteur de pianos					000883		EP346091;PMB1342
+000883	skos:Concept	Facteur d'instruments							EP346088;PMB1338
+000884	skos:Concept	Facteur d'instruments à vent					000883		EP346092;PMB1339
+000885	skos:Concept	Facteur d'orgues					000883		EP346093;PMB1340
+000886	skos:Concept	Factum							
+000887	skos:Concept	Facture d'instrument							
+000888	skos:Concept	Facture d'instrument à cordes							EP346096
+000889	skos:Concept	Facture d'instrument à percussion							
+000890	skos:Concept	Facture d'instrument à vent					000892		EP346108
+000891	skos:Concept	Facture d'orgue					000890		EP346111
+000892	skos:Concept	Facture instrumentale							EP346104;PMB1343
+000893	skos:Concept	Fagotto							
+000894	skos:Concept	Faiseur d'instruments							
+000895	skos:Concept	Fanfare					001796		EP346569;PMB1344
+000896	skos:Concept	Fantaisie					001796		EP346570;PMB1345
+000897	skos:Concept	Fantaisie lyrique							PMB1346
+000898	skos:Concept	Fantastique					001389		EP346774
+000899	skos:Concept	Farce					000495		EP346935
+000900	skos:Concept	Fausse relation							
+000901	skos:Concept	Fausset							PMB24548
+000903	skos:Concept	Faux-bourdon					001804		EP346639;PMB1347
+000904	skos:Concept	Feinte							
+000905	skos:Concept	Femme compositeur							
+000906	skos:Concept	Femme et danse							PMB22997
+000907	skos:Concept	Femme et musique							PMB22995
+000908	skos:Concept	Femme et société							PMB22996
+000909	skos:Concept	Femme musicien							EP346123
+000910	skos:Concept	Ferme générale							PMB23437
+000911	skos:Concept	Festin							
+000912	skos:Concept	Fête							EP346125;PMB1348
+000913	skos:Concept	Fête de saint							EP346132;PMB1349
+000914	skos:Concept	Fête des rois							
+000915	skos:Concept	Fête-Dieu							EP346133
+000916	skos:Concept	Fête du corps et du sang de jésus							
+000917	skos:Concept	Fête du Saint-Sacrement							
+000918	skos:Concept	Fête liturgique							PMB1350
+000919	skos:Concept	Fête populaire							EP346134
+000920	skos:Concept	Fête publique					000912		EP346129
+000921	skos:Concept	Fête religieuse							PMB1351
+000922	skos:Concept	Fête révolutionnaire					000912		EP346130
+000923	skos:Concept	Fête royale					000912		EP346131
+000925	skos:Concept	Feu d'artifice							EP346135
+000926	skos:Concept	Feutre							
+000927	skos:Concept	Fifre							
+000928	skos:Concept	Figuralisme					000936		EP346137
+000929	skos:Concept	Figurant							
+000930	skos:Concept	Figure de danse					000438		EP345921
+000931	skos:Concept	Figure de gradation							
+000932	skos:Concept	Figure de répétition							
+000933	skos:Concept	Figure d'hypotypose							
+000934	skos:Concept	Figure harmonique							
+000935	skos:Concept	Figure mélodique							
+000936	skos:Concept	Figure rhétorique							EP346136
+000937	skos:Concept	Figure rythmique					001425		EP345711
+000938	skos:Concept	Filigrane							PMB1352
+000940	skos:Concept	Final							
+000941	skos:Concept	Fioriture							
+000942	skos:Concept	Flageolet							PMB1353
+000943	skos:Concept	Flatté							
+000944	skos:Concept	Flûte							PMB1354
+000945	skos:Concept	Flûte à bec	Flûte d'Angleterre##Flûte douce##Flûte droite						PMB1355
+000946	skos:Concept	Flûte à plusieurs tuyaux							
+000947	skos:Concept	Flûte allemande	Traverso##Flûte traversière baroque	Flûte d'allemagne##Flûte d'Allemagne##Flute d'allemagne					
+000951	skos:Concept	Flûte rustique							
+000952	skos:Concept	Flûte traversière							
+000953	skos:Concept	Flûtiste					001152		EP346449;PMB1356
+000954	skos:Concept	Foi							PMB22819
+000955	skos:Concept	Foire							EP346143
+000956	skos:Concept	Folia							
+000957	skos:Concept	Folie							EP346145
+000958	skos:Concept	Folie d'Espagne					000052		EP345742
+000959	skos:Concept	Folio							PMB23362
+000960	skos:Concept	Folklore							PMB1357
+000961	skos:Concept	Follia							
+000962	skos:Concept	Fonction politique de la musique							
+000963	skos:Concept	Fonction sociale					002493		EP347054
+000964	skos:Concept	Fondeur de cloches							
+000965	skos:Concept	Fonds musical					000256		EP345811;PMB1358
+000966	skos:Concept	Forlane					000052		EP345743
+000967	skos:Concept	Format du papier					001696		EP345962
+000968	skos:Concept	Formation musicale							EP346147;PMB22376
+000969	skos:Concept	Forme binaire					000972		EP346153
+000970	skos:Concept	Forme da capo					000972		EP346154
+000971	skos:Concept	Forme menuet							
+000972	skos:Concept	Forme musicale							EP346148
+000973	skos:Concept	Forme poétique							EP346163
+000974	skos:Concept	Forme rondeau					000972		EP346155
+000975	skos:Concept	Forme rondo-sonate							
+000976	skos:Concept	Forme sonate					000972		EP346156
+000977	skos:Concept	Forme strophique					000972		EP346157
+000978	skos:Concept	Forme ternaire					000972		EP346158
+000979	skos:Concept	Forme variation					000972		EP346159
+000980	skos:Concept	Fourniture							
+000981	skos:Concept	Fragment d'oeuvre lyrique					001516		EP346516
+000982	skos:Concept	Fragment du commun de la messe							
+000983	skos:Concept	Fragment d'une pièce de théâtre							
+000985	skos:Concept	Français							PMB23438
+000986	skos:Concept	Franc-maçonnerie							EP346167;PMB1359
+000988	skos:Concept	Fréquence d'un son							
+000989	skos:Concept	Fréquentation du public							
+000990	skos:Concept	Frettage							
+000991	skos:Concept	Frette							EP346172
+000992	skos:Concept	Fricassée							
+000993	skos:Concept	Fricassée littéraire							
+000994	skos:Concept	Frontispice					000706		EP447096
+000995	skos:Concept	Frottole							PMB22635
+000996	skos:Concept	Fugue							PMB1360
+000997	skos:Concept	Fugue instrumentale					001796		EP346571;PMB1361
+000998	skos:Concept	Fugue perpétuelle							
+000999	skos:Concept	Fugue renversée							
+001000	skos:Concept	Funérailles					000382		EP345844;PMB1362
+001001	skos:Concept	Gage							
+001002	skos:Concept	Gaillarde					000052		EP345744
+001003	skos:Concept	Galanterie							EP346175
+001004	skos:Concept	Gallicanisme					000371		EP345863
+001005	skos:Concept	Gambiste					001152		EP346450
+001006	skos:Concept	Gamme					000753		EP346001
+001007	skos:Concept	Gamme pythagoricienne							
+001008	skos:Concept	Garnier, Joseph-François							PMB23120
+001009	skos:Concept	Gavotte					000052		EP345745
+001010	skos:Concept	Gazette							PMB1363
+001011	skos:Concept	Généalogie							EP346178;PMB23467
+001012	skos:Concept	Genèse d'un genre					000654		EP346179
+001013	skos:Concept	Genèse d'une oeuvre					000654		EP345908
+001015	skos:Concept	Genre et musique							PMB22994
+001016	skos:Concept	Geste							EP346180;PMB23480
+001017	skos:Concept	Gestion des spectacles					001659		EP347021
+001018	skos:Concept	Gestuelle					000438		EP345922;PMB1364
+001019	skos:Concept	Gigue					000052		EP345746
+001020	skos:Concept	Gigue anglaise							
+001021	skos:Concept	Gloria							
+001022	skos:Concept	Glotte							
+001023	skos:Concept	Goût							PMB22908
+001024	skos:Concept	Goût du public					001027		EP346182
+001025	skos:Concept	Goût français					001027		EP346183
+001026	skos:Concept	Goût italien					001027		EP346184
+001027	skos:Concept	Goût musical							EP346181
+001028	skos:Concept	Graduel							PMB1365
+001029	skos:Concept	Graduel chant							
+001030	skos:Concept	Graduel livre					001283		EP346364
+001031	skos:Concept	Grand chantre							
+001032	skos:Concept	Grand choeur					000431		EP345858
+001033	skos:Concept	Grand choeur instrumental							EP346185
+001034	skos:Concept	Grand motet					001463		EP346635;PMB1458
+001035	skos:Concept	Grand plein jeu							
+001036	skos:Concept	Graveur de musique					001337		EP346389;PMB1366
+001037	skos:Concept	Gravure					002444		EP345973;PMB23449
+001038	skos:Concept	Gravure musicale							PMB23204
+001039	skos:Concept	Grégorien							EP346186;PMB1367
+001040	skos:Concept	Grotesque							
+001041	skos:Concept	Ground							
+001042	skos:Concept	Gruppeto							
+001043	skos:Concept	Guide							
+001044	skos:Concept	Guidon							
+001045	skos:Concept	Guitare							PMB1368
+001046	skos:Concept	Guitare allemande							EP346189
+001047	skos:Concept	Guitariste					001152		EP346451
+001048	skos:Concept	Gymel							PMB22645
+001049	skos:Concept	Harmonica de verre							PMB23225
+001050	skos:Concept	Harmonie					000776		EP346028;PMB1369
+001051	skos:Concept	Harmonique							
+001052	skos:Concept	Harmonisation de l'orgue							
+001053	skos:Concept	Harpe							PMB1370
+001054	skos:Concept	Harpiste					001152		EP346452
+001055	skos:Concept	Haut dessus (voix)							
+001056	skos:Concept	Hautbois							PMB1371
+001057	skos:Concept	Hautbois d'amour							
+001058	skos:Concept	Hautboïste					001152		EP346453
+001059	skos:Concept	Haute contre (voix)					000413		EP346437;PMB1372
+001060	skos:Concept	Haute taille (voix)							
+001061	skos:Concept	Hauteur d'un son					002206		EP345666
+001062	skos:Concept	Hémiole					001425		EP345716
+001063	skos:Concept	Herr gott lass dich erbarmen							PMB23094
+001064	skos:Concept	Hexacorde					000753		EP346002
+001065	skos:Concept	Hiérodrame					001075		EP346628;PMB1373
+001066	skos:Concept	Hiérodrame littéraire							
+001067	skos:Concept	Hiéroglyphe musical							PMB23270
+001068	skos:Concept	Histoire							PMB23408
+001069	skos:Concept	Histoire de la danse							
+001070	skos:Concept	Histoire de la littérature							
+001071	skos:Concept	Histoire de la musique							
+001072	skos:Concept	Histoire des institutions							
+001073	skos:Concept	Histoire du théâtre							
+001074	skos:Concept	Histoire religieuse							
+001075	skos:Concept	Histoire sacrée					001544		EP346627;PMB1374
+001076	skos:Concept	Historicus							
+001077	skos:Concept	Historien de la musique							EP346191
+001078	skos:Concept	Historiographie							EP346192
+001079	skos:Concept	Historiographie musicale							EP346193;PMB1375
+001080	skos:Concept	Histrion							
+001081	skos:Concept	Homophonie					000776		EP346038
+001082	skos:Concept	Horloge							
+001083	skos:Concept	Huguenot							PMB23483
+001084	skos:Concept	Huissier avertisseur des ballets							EP346195
+001085	skos:Concept	Huit tons de l'église					001442		EP346005
+001086	skos:Concept	Huitain							
+001087	skos:Concept	Humanisme							EP346196
+001088	skos:Concept	Hymne							EP346197;PMB1376
+001089	skos:Concept	Hymne à la Vierge Marie							PMB1377
+001090	skos:Concept	Hymne à Marie					002164		EP346198
+001092	skos:Concept	Hymne au Saint-Esprit							PMB1378
+001093	skos:Concept	Hymne au Saint-Sacrement						Adoro Te Devote, [Pange lingua, Verbum caro, Tantum ergo], Ave Verum, O Salutaris Hostia, Verbum supernum prodiens,  [Sacris solemnis, Panis angelicus]	PMB1379
+001094	skos:Concept	Hymne en langue vulgaire							
+001095	skos:Concept	Hymne instrumental							PMB1380
+001096	skos:Concept	Hymne paraphrasé							
+001097	skos:Concept	Hymne patriotique							
+001098	skos:Concept	Hymne profane							
+001099	skos:Concept	Hymne républicain							
+001100	skos:Concept	Hymne révolutionnaire							EP346204
+001101	skos:Concept	Iambe							
+001102	skos:Concept	Iconographie							PMB1381
+001103	skos:Concept	Idylle					001826		EP346763;PMB1382
+001104	skos:Concept	Idylle dramatique							
+001105	skos:Concept	Idylle héroïque							
+001106	skos:Concept	Illustration							EP346205
+001107	skos:Concept	Imitation							PMB1383
+001108	skos:Concept	Imitation de la nature							EP346206
+001109	skos:Concept	Imitation des anciens							EP346210
+001110	skos:Concept	Imitation renversée							
+001111	skos:Concept	Immaculée conception							
+001112	skos:Concept	Imprimerie					002444		EP345974;PMB22883
+001113	skos:Concept	Imprimeur de musique					001337		EP346390
+001114	skos:Concept	Imprimeur du roi					001113		EP346391
+001115	skos:Concept	Impromptu							
+001116	skos:Concept	Improvisation							EP346211;PMB1384
+001117	skos:Concept	Index							PMB23446
+001118	skos:Concept	Indication de caractère							EP346213
+001119	skos:Concept	Indication de mouvement					000047		EP345709;PMB1385
+001120	skos:Concept	Indication métronomique							
+001121	skos:Concept	Influence allemande							EP346215
+001122	skos:Concept	Influence anglaise					001128		EP346220
+001123	skos:Concept	Influence autrichienne					001128		EP346221
+001124	skos:Concept	Influence de Lully					001134		EP346217
+001125	skos:Concept	Influence de Rameau					001134		EP346218
+001126	skos:Concept	Influence du pouvoir politique sur la musique					002485		EP347014
+001127	skos:Concept	Influence espagnole					001128		EP346222
+001128	skos:Concept	Influence étrangère en France					001134		EP346219;PMB24556
+001129	skos:Concept	Influence française à l'étranger					001134		EP346225;PMB24558
+001130	skos:Concept	Influence française en Allemagne					001129		EP346226
+001131	skos:Concept	Influence française en Italie					001129		EP346227
+001132	skos:Concept	Influence germanique					001128		EP346223
+001133	skos:Concept	Influence italienne					001134		EP346224
+001134	skos:Concept	Influence stylistique							EP346216
+001136	skos:Concept	Institution							PMB23105
+001138	skos:Concept	Instrument à archet							PMB1386
+001139	skos:Concept	Instrument à clavier					001149		EP346238;PMB1387
+001140	skos:Concept	Instrument à cordes					001149		EP346239;PMB1388
+001141	skos:Concept	Instrument à cordes frappées					001140		EP346240;PMB1389
+001142	skos:Concept	Instrument à cordes frottées					001140		EP346245;PMB1390
+001143	skos:Concept	Instrument à cordes pincées					001140		EP346260;PMB1391
+001144	skos:Concept	Instrument à percussion					001149		EP346279;PMB1392
+001145	skos:Concept	Instrument à vent					001149		EP346285;PMB1393
+001146	skos:Concept	Instrument à vent en bois					001145		EP346290;PMB1394
+001147	skos:Concept	Instrument à vent en cuivre					001145		EP346310;PMB1395
+001148	skos:Concept	Instrument de mesure							EP346228
+001149	skos:Concept	Instrument de musique							EP346235;PMB1396
+001150	skos:Concept	Instrument soliste					001149		EP346320
+001151	skos:Concept	Instrumentation					000791		EP346054
+001152	skos:Concept	Instrumentiste					001476		EP346441;PMB1398
+001153	skos:Concept	Instruments de musique							PMB22844
+001154	skos:Concept	Insurrection							PMB23420
+001155	skos:Concept	Intensité d'un son					002206		EP345669
+001157	skos:Concept	Intermède					000981		EP346521;PMB1399
+001158	skos:Concept	Intervalle superflu							
+001159	skos:Concept	Interprétation							EP346323;PMB1400
+001160	skos:Concept	Interprétation dramatique					000037		EP345702
+001161	skos:Concept	Interprète							EP346324
+001162	skos:Concept	Intervalle					001050		EP346031;PMB1401
+001163	skos:Concept	Intervalle augmenté							
+001164	skos:Concept	Intervalle diminué							
+001165	skos:Concept	Intervalle juste							
+001166	skos:Concept	Intervalle majeur							
+001167	skos:Concept	Intervalle mineur							
+001168	skos:Concept	Intervalle mixte							
+001169	skos:Concept	Intonation					002293		EP346920;PMB1402
+001170	skos:Concept	Introduction							
+001171	skos:Concept	Introït							
+001172	skos:Concept	Inventaire après décès					000034		EP345990
+001173	skos:Concept	Inventaire de fonds							EP346326
+001174	skos:Concept	Inventaire de fonds musical							
+001175	skos:Concept	Inventeur d'instrument de musique							EP346327
+001176	skos:Concept	Invention de la croix							
+001177	skos:Concept	Invention mécanique					000892		EP346116
+001178	skos:Concept	Ivoire							
+001179	skos:Concept	Jacobites							PMB23444
+001180	skos:Concept	Saint Jacques							
+001181	skos:Concept	Jacques le mineur							
+001182	skos:Concept	Jardin							PMB1403
+001183	skos:Concept	Jardinier							PMB1404
+001184	skos:Concept	Saint Jean							
+001186	skos:Concept	Saint Jean-baptiste, décollation							
+001187	skos:Concept	Saint Jean-baptiste, nativité							
+001188	skos:Concept	Jérémie							PMB1405
+001189	skos:Concept	Jermata							
+001190	skos:Concept	Jésuite							PMB1406
+001191	skos:Concept	Jésus-Christ						Sur le nom de Jésus : O bone Jesu, O dulce nomen Jesu, O Domine Jesu : O dulcissime Jesu, Jesu lux, Jesu dux, Jesu mi suavissime, Jesu dulcissime Pastor, Jesu mi transfige, O Amor Jesu, Jesu nostra redemptio, Cor Jesu te laudamus (Sacré Coeur)	PMB1407
+001192	skos:Concept	Jeu de clairon							
+001193	skos:Concept	Jeu de cornet							
+001194	skos:Concept	Jeu de cromorne							
+001195	skos:Concept	Jeu de cymbale							
+001196	skos:Concept	Jeu de flûte							
+001197	skos:Concept	Jeu de foire							
+001198	skos:Concept	Jeu de prestant							
+001199	skos:Concept	Jeu de tierce							
+001200	skos:Concept	Jeu de voix humaine							
+001201	skos:Concept	Jeu en chamade							
+001202	skos:Concept	Jeu musical							PMB1408
+001203	skos:Concept	Jeudi							
+001204	skos:Concept	Jeudi saint					002156		EP346866
+001205	skos:Concept	Jolie							
+001207	skos:Concept	Joueur de chalumeau							
+001208	skos:Concept	Joueur de cithare							
+001209	skos:Concept	Joueur de cornemuse							
+001210	skos:Concept	Joueur de cromorne							
+001211	skos:Concept	Joueur de fifre							
+001212	skos:Concept	Joueur de musette					001152		EP346454
+001213	skos:Concept	Joueur de serpent					001152		EP346455
+001214	skos:Concept	Joueur de tambour					001152		EP346456;PMB1409
+001215	skos:Concept	Joueur de trompette							PMB1410
+001216	skos:Concept	Joueur de trompette marine							
+001217	skos:Concept	Jour des défunts							
+001218	skos:Concept	Jour des morts							
+001219	skos:Concept	Journal							EP346328;PMB23442
+001220	skos:Concept	Journal littéraire							
+001221	skos:Concept	Journaliste							
+001222	skos:Concept	Judith triomphante	Juditha triumphans						PMB23596;PMB23597
+001224	skos:Concept	Justesse							
+001225	skos:Concept	Kyrie							
+001226	skos:Concept	Lai							
+001227	skos:Concept	Laiton							
+001229	skos:Concept	Lamentations de Jérémie							PMB1412
+001230	skos:Concept	Lamentations de Job							PMB23198
+001231	skos:Concept	Langage							EP346333
+001232	skos:Concept	Langue							EP346334
+001233	skos:Concept	Langue allemande					001232		EP346335
+001234	skos:Concept	Langue espagnole					001232		EP346336
+001235	skos:Concept	Langue française					001232		EP346337
+001236	skos:Concept	Langue italienne					001232		EP346338
+001237	skos:Concept	Langue latine					001232		EP346339
+001238	skos:Concept	Langue régionale					001232		EP346340
+001239	skos:Concept	Langueur							
+001240	skos:Concept	Larynx							
+001241	skos:Concept	Laudes							
+001242	skos:Concept	Saint Laurent							
+001243	skos:Concept	Leçon							
+001244	skos:Concept	Leçon de musique							
+001245	skos:Concept	Leçon de ténèbres							EP346343;PMB1413
+001246	skos:Concept	Leçon des morts							
+001247	skos:Concept	Leçon paraphrasée					000334		EP347082
+001248	skos:Concept	Lecture à livre ouvert							
+001249	skos:Concept	Lecture de la musique							
+001250	skos:Concept	Lecture liturgique							
+001251	skos:Concept	Legato					001780		EP346738
+001252	skos:Concept	Lettre							
+001253	skos:Concept	Lettre dédicatoire							
+001254	skos:Concept	Lettre en vers							
+001255	skos:Concept	Lettre liminaire							
+001256	skos:Concept	Lettre pastorale							
+001257	skos:Concept	Lettrine							
+001258	skos:Concept	Liaison							
+001259	skos:Concept	Libelle							EP346348
+001260	skos:Concept	Libertinage							EP346349
+001261	skos:Concept	Libraire musical							EP346350
+001262	skos:Concept	Librairie							EP346351
+001263	skos:Concept	Librairie musicale					001262		EP346352;PMB1414
+001264	skos:Concept	Librettiste					000176		EP345784;PMB1415
+001265	skos:Concept	Lied							PMB1416
+001266	skos:Concept	Ligature							
+001267	skos:Concept	Lira organizata							PMB22539
+001268	skos:Concept	Litanie					001864		EP346786;PMB1417
+001269	skos:Concept	Litanies de la Vierge Marie							PMB1418
+001270	skos:Concept	Littérature							PMB1419
+001271	skos:Concept	Littérature classique							PMB22664
+001272	skos:Concept	Littérature latine							PMB24540
+001273	skos:Concept	Liturgie							PMB1420
+001274	skos:Concept	Liturgie catholique							EP346353
+001275	skos:Concept	Liturgie de la vie religieuse					001625		EP346683
+001276	skos:Concept	Liturgie des morts					001625		EP346686
+001277	skos:Concept	Liturgie gallicane							
+001278	skos:Concept	Liturgie protestante							
+001279	skos:Concept	Livre							
+001280	skos:Concept	Livre de choeur					001975		EP346821
+001281	skos:Concept	Livre de messe							
+001282	skos:Concept	Livre d'orgue					001975		EP346822
+001283	skos:Concept	Livre liturgique					001284		EP346360
+001284	skos:Concept	Livre religieux							EP346356
+001285	skos:Concept	Livret							EP346369;PMB1421
+001286	skos:Concept	Livret d'histoire sacrée					001285		EP346370
+001287	skos:Concept	Location							
+001288	skos:Concept	Longue							
+001289	skos:Concept	Louange							
+001291	skos:Concept	Loure					000052		EP345747
+001292	skos:Concept	Louré							
+001293	skos:Concept	Saint Luc							
+001294	skos:Concept	Lumière de tuyau							
+001295	skos:Concept	Lumières							PMB1422
+001296	skos:Concept	Lundi							
+001297	skos:Concept	Lundi de pâques							
+001298	skos:Concept	Luth							PMB1423
+001299	skos:Concept	Luth de basse							
+001300	skos:Concept	Luth théorbé							
+001301	skos:Concept	Lutherie							EP346373;PMB1424
+001302	skos:Concept	Luthier					000883		EP346094;PMB1425
+001303	skos:Concept	Luthiste					001152		EP346457;PMB1426
+001304	skos:Concept	Lyon. académie des sciences, belles lettres et arts							PMB23221
+001305	skos:Concept	Lyon. archives municipales							PMB23166
+001306	skos:Concept	Lyre							PMB1427
+001307	skos:Concept	Machine							PMB23355
+001308	skos:Concept	Machinerie					000691		EP345939
+001309	skos:Concept	Machines							EP346374
+001310	skos:Concept	Machiniste							EP346375
+001311	skos:Concept	Madrigal					000049		EP346616;PMB1428
+001312	skos:Concept	Madrigal poétique							
+001313	skos:Concept	Madrigal spirituel							PMB1429
+001314	skos:Concept	Magnificat							EP346376;PMB1430
+001315	skos:Concept	Magnificat instrumental							PMB1431
+001316	skos:Concept	Maison princière							PMB23330
+001317	skos:Concept	Maison religieuse							EP346377;PMB1432
+001318	skos:Concept	Maître à chanter					001878		EP488890
+001320	skos:Concept	Maître à danser							EP346380;PMB22976
+001321	skos:Concept	Maître de ballet							EP346381
+001322	skos:Concept	Maître de chapelle					001494		EP346489;PMB1433
+001323	skos:Concept	Maître de musique							EP346382
+001324	skos:Concept	Maîtrise					000822		EP346064;PMB1434
+001325	skos:Concept	Maîtrisien							
+001326	skos:Concept	Manche							
+001327	skos:Concept	Mandoline							PMB1435
+001328	skos:Concept	Mandore							PMB22631
+001329	skos:Concept	Manécanterie							PMB1436
+001330	skos:Concept	Manicordion							
+001331	skos:Concept	Manière							
+001332	skos:Concept	Manifestation musicale							PMB24541
+001333	skos:Concept	Manuel							PMB23279
+001334	skos:Concept	Manuscrit					000706		EP345957;PMB23353
+001335	skos:Concept	Manuscrit autographe					001334		EP345958
+001336	skos:Concept	Saint Marc							
+001337	skos:Concept	Marchand de musique							EP346386
+001338	skos:Concept	Marchand d'instruments de musique					000883		EP346095
+001339	skos:Concept	Marchand papetier							
+001340	skos:Concept	Marche					001796		EP346572;PMB1437
+001341	skos:Concept	Marche funèbre							PMB1438
+001342	skos:Concept	Marche harmonique							
+001343	skos:Concept	Marche militaire							PMB1439
+001344	skos:Concept	Marche modulante							
+001345	skos:Concept	Mardi							
+001346	skos:Concept	Mardi de pâques							
+001347	skos:Concept	Maréchal de France							PMB23433
+001349	skos:Concept	Mariage					001275		EP346685;PMB23637
+001350	skos:Concept	Marie							EP346392
+001352	skos:Concept	Marionnettes					002246		EP346886
+001353	skos:Concept	Marque du papier					001696		EP345963
+001354	skos:Concept	Marqueterie							
+001355	skos:Concept	Marteau de cloche							
+001356	skos:Concept	Saint Martin							
+001357	skos:Concept	Martyr							PMB1441
+001358	skos:Concept	Mascarade					001615		EP346534;PMB1442
+001359	skos:Concept	Masque					000691		EP345940;PMB1443
+001360	skos:Concept	Matériau							
+001361	skos:Concept	Mathématiques							EP346396
+001362	skos:Concept	Matines							EP346400
+001363	skos:Concept	Saint Matthias							
+001364	skos:Concept	Saint Matthieu							
+001365	skos:Concept	Mazarinade					001690		EP346715
+001366	skos:Concept	Mécanique							
+001367	skos:Concept	Mécanique d'un instrument					001177		EP346117
+001368	skos:Concept	Mécénat					002480		EP347004;PMB1444
+001369	skos:Concept	Mécène							EP346401
+001370	skos:Concept	Méditation poétique							
+001371	skos:Concept	Méditations							PMB22666
+001372	skos:Concept	Mélanges					001975		EP346823
+001373	skos:Concept	Mélodie							EP346402;PMB1445
+001374	skos:Concept	Mélodrame					001516		EP346527;PMB1446
+001375	skos:Concept	Mélomane							EP346403
+001376	skos:Concept	Membrane vibrante							
+001377	skos:Concept	Mémoire							
+001378	skos:Concept	Mémoires							EP346404;PMB23425
+001379	skos:Concept	Memona							
+001380	skos:Concept	Ménestrandise							EP346405
+001381	skos:Concept	Ménestrel							PMB22906
+001382	skos:Concept	Ménétrier					001476		EP346468;PMB1447
+001383	skos:Concept	Menuet					000052		EP345748
+001384	skos:Concept	Menuet instrumental							PMB1448
+001385	skos:Concept	Menuet vocal					000049		EP346617
+001386	skos:Concept	Mercredi							
+001387	skos:Concept	Mercredi des cendres							
+001388	skos:Concept	Mercredi saint							
+001389	skos:Concept	Merveilleux					001830		EP346772;PMB23366
+001390	skos:Concept	Message politique							
+001391	skos:Concept	Messe					001625		EP346690;PMB1449
+001392	skos:Concept	Messe a cappella							
+001393	skos:Concept	Messe basse					001391		EP346692
+001394	skos:Concept	Messe brève							
+001395	skos:Concept	Messe concertante							
+001396	skos:Concept	Messe de la Sainte Croix							
+001397	skos:Concept	Messe de requiem							EP346406
+001398	skos:Concept	Messe de Te Deum							
+001399	skos:Concept	Messe des morts					001276		EP346688
+001400	skos:Concept	Messe d'orgue							
+001401	skos:Concept	Messe du Saint-Esprit							
+001402	skos:Concept	Messe en musique					001544		EP346630
+001403	skos:Concept	Messe en plain-chant					001402		EP346631
+001404	skos:Concept	Messe en symphonie					001402		EP346632
+001405	skos:Concept	Messe haute							
+001406	skos:Concept	Messe instrumentale							PMB1450
+001407	skos:Concept	Messe polyphonique					001402		EP346633
+001408	skos:Concept	Messe pour les défunts							
+001409	skos:Concept	Messe rouge							
+001410	skos:Concept	Messe solennelle					001391		EP346693
+001411	skos:Concept	Mesure					001425		EP345717
+001412	skos:Concept	Mesure à l'antique							EP346408
+001413	skos:Concept	Mesure et rythme							PMB1451
+001414	skos:Concept	Métal							
+001415	skos:Concept	Métaphysique							PMB23584
+001416	skos:Concept	Méthode							PMB23283
+001417	skos:Concept	Méthode de chant					001683		EP346708
+001418	skos:Concept	Méthode de composition					001683		EP346709
+001419	skos:Concept	Méthode de jeu							EP346409
+001420	skos:Concept	Méthode de musique							
+001421	skos:Concept	Méthode d'enseignement							EP346411
+001422	skos:Concept	Méthode instrumentale					001683		EP346710
+001423	skos:Concept	Méthode vocale							
+001424	skos:Concept	Métier							PMB23413
+001425	skos:Concept	Mètre					000047		EP345710
+001426	skos:Concept	Métrique							PMB22502
+001427	skos:Concept	Métrique gréco-latine					001425		EP345718
+001428	skos:Concept	Métronome							EP346414;PMB23282
+001429	skos:Concept	Metteur en scène							EP346415
+001430	skos:Concept	Mezza di voce							
+001431	skos:Concept	Mezzo							
+001432	skos:Concept	Saint Michel (archange)							
+001433	skos:Concept	Militaire							PMB23411
+001434	skos:Concept	Miniature							
+001435	skos:Concept	Minnesang							PMB1452
+001436	skos:Concept	Mise en scène							EP346416;PMB1453
+001437	skos:Concept	Missel					001283		EP346366
+001438	skos:Concept	Mixtures							
+001439	skos:Concept	Mnémé							
+001440	skos:Concept	Mobilier							EP346417
+001441	skos:Concept	Modalité					000753		EP346003;PMB1454
+001442	skos:Concept	Mode							EP346004
+001443	skos:Concept	Mode champêtre							EP346418
+001444	skos:Concept	Mode du plain-chant							
+001445	skos:Concept	Mode enharmonique							
+001446	skos:Concept	Mode majeur					001442		EP346006
+001447	skos:Concept	Mode mineur					001442		EP346007
+001448	skos:Concept	Mode mixte					001442		EP346008
+001449	skos:Concept	Mode pastorale							EP346419
+001450	skos:Concept	Modernité							EP346420
+001451	skos:Concept	Modulation					001050		EP346035
+001452	skos:Concept	Moine							
+001453	skos:Concept	Moïse							PMB1455
+001454	skos:Concept	Monarchie							PMB23415
+001455	skos:Concept	Monastère							
+001456	skos:Concept	Monocorde					001148		EP346230
+001457	skos:Concept	Monodie							EP346421
+001458	skos:Concept	Monogramme					000866		EP345956
+001459	skos:Concept	Monologue							EP346422;PMB23349
+001460	skos:Concept	Montre							
+001461	skos:Concept	Mordant							
+001462	skos:Concept	Mort (défunt)							PMB1456
+001463	skos:Concept	Motet					001544		EP346634;PMB1457
+001464	skos:Concept	Motif thématique							
+001465	skos:Concept	Mots-clés							PMB22665
+001466	skos:Concept	Mouvement					000972		EP346160
+001467	skos:Concept	Mouvement de bras							
+001468	skos:Concept	Mouvement de pied							
+001469	skos:Concept	Muance							EP346424
+001470	skos:Concept	Muselar							
+001471	skos:Concept	Musette							
+001472	skos:Concept	Musette (instrument)							PMB1461
+001473	skos:Concept	Musette danse					000052		EP345749
+001474	skos:Concept	Musette vocale							PMB1460
+001475	skos:Concept	Musica ficta							PMB22986
+001476	skos:Concept	Musicien							EP346425;PMB1462
+001477	skos:Concept	Musicien allemand					001498		EP346493
+001478	skos:Concept	Musicien amateur					001476		EP346470
+001479	skos:Concept	Musicien ambulant					001476		EP346471;PMB1463
+001480	skos:Concept	Musicien anglais					001498		EP346494
+001481	skos:Concept	Musicien d'académie							
+001482	skos:Concept	Musicien de concert					001476		EP346472
+001483	skos:Concept	Musicien de cour					001476		EP346473;PMB1465
+001484	skos:Concept	Musicien de la chambre							
+001485	skos:Concept	Musicien de la chapelle							
+001486	skos:Concept	Musicien de la grande bande							
+001487	skos:Concept	Musicien de la grande écurie							
+001488	skos:Concept	Musicien de la maison militaire							
+001489	skos:Concept	Musicien de la marine					001476		EP346482
+001490	skos:Concept	Musicien de la petite bande							
+001491	skos:Concept	Musicien de la reine					001483		EP346474
+001492	skos:Concept	Musicien de la ville							EP346505
+001493	skos:Concept	Musicien de théâtre					001476		EP346483;PMB1466
+001494	skos:Concept	Musicien d'église					001476		EP346484;PMB1464
+001495	skos:Concept	Musicien du cabinet							
+001496	skos:Concept	Musicien du roi					001483		EP346475
+001497	skos:Concept	Musicien espagnol					001498		EP346495
+001498	skos:Concept	Musicien étranger en France					001476		EP346492
+001499	skos:Concept	Musicien français à l'étranger					001476		EP346497
+001500	skos:Concept	Musicien gagiste							
+001501	skos:Concept	Musicien italien					001498		EP346496
+001502	skos:Concept	Musicien passant							
+001503	skos:Concept	Musicien populaire					001476		EP346498;PMB1467
+001504	skos:Concept	Musicienne					001476		EP346499;PMB1468
+001505	skos:Concept	Musicologie							PMB23292
+001506	skos:Concept	Musique allemande							EP346507
+001507	skos:Concept	Musique anglaise							EP346508
+001508	skos:Concept	Musique chorale							EP346509
+001509	skos:Concept	Musique de chambre							EP346510;PMB1470
+001510	skos:Concept	Musique de chasse					001513		EP346513;PMB1471
+001511	skos:Concept	Musique de circonstance							EP346511;PMB1472
+001512	skos:Concept	Musique de cour							PMB1473
+001513	skos:Concept	Musique de plein air							EP346512;PMB1475
+001514	skos:Concept	Musique de scène							PMB1476
+001515	skos:Concept	Musique de table							PMB1477
+001516	skos:Concept	Musique de théâtre							EP346515;PMB1478
+001517	skos:Concept	Musique d'église							EP346553;PMB1469
+001518	skos:Concept	Musique des anciens							EP346554
+001519	skos:Concept	Musique des chinois					001518		EP346555
+001520	skos:Concept	Musique des grecs					001518		EP346556
+001521	skos:Concept	Musique des hébreux					001518		EP346557
+001522	skos:Concept	Musique des indiens					001518		EP346558
+001523	skos:Concept	Musique des modernes							
+001524	skos:Concept	Musique des romains							
+001525	skos:Concept	Musique descriptive							EP346559
+001526	skos:Concept	Musique du roi							PMB24554
+001527	skos:Concept	Musique équestre							PMB1479
+001528	skos:Concept	Musique espagnole							EP346560
+001529	skos:Concept	Musique figurative							EP346561
+001530	skos:Concept	Musique figurée							
+001531	skos:Concept	Musique française							
+001532	skos:Concept	Musique hollandaise							EP346563
+001533	skos:Concept	Musique instrumentale							EP346564;PMB1480
+001534	skos:Concept	Musique italienne							EP346593
+001535	skos:Concept	Musique liturgique							EP346594;PMB1481
+001536	skos:Concept	Musique mesurée à l'antique							EP346595
+001537	skos:Concept	Musique militaire					001513		EP346514;PMB1482
+001538	skos:Concept	Musique polyphonique							EP346596
+001539	skos:Concept	Musique populaire							EP346597;PMB1483
+001540	skos:Concept	Musique profane							EP346598;PMB1484
+001541	skos:Concept	Musique religieuse							PMB1485
+001542	skos:Concept	Musique révolutionnaire							EP346600;PMB1486
+001543	skos:Concept	Musique sacrée							EP346601;PMB1487
+001544	skos:Concept	Musique vocale							EP346602;PMB1488
+001545	skos:Concept	Musique vocale profane							PMB1489
+001546	skos:Concept	Musique vocale religieuse							PMB1490
+001547	skos:Concept	Mythe							PMB23364
+001548	skos:Concept	Mythologie							EP346648;PMB23599
+001549	skos:Concept	Mythologie grecque							
+001550	skos:Concept	Mythologie hébraïque							
+001551	skos:Concept	Mythologie latine							
+001552	skos:Concept	Naissance							
+001553	skos:Concept	Naissance du dauphin							EP346649
+001554	skos:Concept	Narration							
+001555	skos:Concept	Nativité							
+001556	skos:Concept	Nativité de Saint Jean-Baptiste							
+001557	skos:Concept	Nativité de la Vierge Marie							PMB1491
+001558	skos:Concept	Nativité de Marie							
+001559	skos:Concept	Nécrologie							PMB23308
+001560	skos:Concept	Néo-classicisme							PMB1492
+001561	skos:Concept	Neume							PMB1493
+001562	skos:Concept	Noblesse							PMB23102
+001563	skos:Concept	Noces							
+001564	skos:Concept	Nocturne							PMB22569
+001565	skos:Concept	Noël							EP346651;PMB1494
+001566	skos:Concept	Noël à grand choeur					001544		EP346637
+001567	skos:Concept	Noël instrumental							PMB1495
+001568	skos:Concept	Noël pour clavecin							
+001569	skos:Concept	Noël pour orgue							
+001570	skos:Concept	Nom de Jésus							
+001571	skos:Concept	Nom de Marie							
+001572	skos:Concept	Nombre					001361		EP346397
+001573	skos:Concept	Nombre d'or					001886		EP346399
+001574	skos:Concept	None							
+001575	skos:Concept	Nonette							PMB1496
+001576	skos:Concept	Notariat							PMB23450
+001577	skos:Concept	Notation							EP346653
+001578	skos:Concept	Notation bénesh							
+001579	skos:Concept	Notation blanche							
+001580	skos:Concept	Notation carrée							
+001581	skos:Concept	Notation chiffrée							
+001582	skos:Concept	Notation chorégraphique					001577		EP346654
+001583	skos:Concept	Notation conté							
+001584	skos:Concept	Notation favier					001582		EP346655
+001585	skos:Concept	Notation feuillet					001582		EP346656
+001586	skos:Concept	Notation laban							
+001587	skos:Concept	Notation musicale					001577		EP346657;PMB1497
+001588	skos:Concept	Notation neumatique							
+001589	skos:Concept	Notation noire							
+001590	skos:Concept	Notation nouvelle							
+001591	skos:Concept	Notation par lettres							
+001592	skos:Concept	Notation par nombres							
+001593	skos:Concept	Notation rameau							
+001594	skos:Concept	Note							
+001595	skos:Concept	Note accidentelle							
+001596	skos:Concept	Note de passage							
+001597	skos:Concept	Note étrangère							
+001598	skos:Concept	Note fondamentale							
+001599	skos:Concept	Notes inégales							EP346676;PMB1498
+001600	skos:Concept	Notre Dame							
+001601	skos:Concept	Notre-Dame des Douleurs	Notre-Dame des Sept Douleurs						
+001602	skos:Concept	Nuance							EP346677
+001603	skos:Concept	Nunc dimittis							
+001604	skos:Concept	Octave de Pâques							
+001605	skos:Concept	Octave liturgie							
+001606	skos:Concept	Octave musique							
+001607	skos:Concept	Ode					001824		EP346759;PMB1499
+001608	skos:Concept	Ode anacréontique							
+001609	skos:Concept	Ode bachique							
+001610	skos:Concept	Ode chrétienne							
+001611	skos:Concept	Ode sacrée							
+001612	skos:Concept	Ode spirituelle							PMB1500
+001613	skos:Concept	Odelette							
+001615	skos:Concept	Oeuvre à intermèdes musicaux					001516		EP346528;PMB1501
+001616	skos:Concept	Oeuvre lyrique							PMB1502
+001617	skos:Concept	Offertoire							EP346679;PMB1503
+001618	skos:Concept	Office de Marie le samedi							
+001619	skos:Concept	Office des heures							
+001620	skos:Concept	Office des morts					001276		EP346689
+001621	skos:Concept	Office des ténèbres							EP346680
+001622	skos:Concept	Office du matin							
+001623	skos:Concept	Office du soir							
+001624	skos:Concept	Office funéraire							PMB23211
+001625	skos:Concept	Office liturgique							EP346682;PMB1504
+001626	skos:Concept	Onde sonore							
+001627	skos:Concept	Opéra					001516		EP346542;PMB1505
+001628	skos:Concept	Opéra à sauvetage							EP346695
+001629	skos:Concept	Opéra biblique							
+001630	skos:Concept	Opéra bouffa							
+001631	skos:Concept	Opéra bouffe					001615		EP346535
+001632	skos:Concept	Opera buffa					001634		EP346551
+001633	skos:Concept	Opéra de collège					001615		EP346536
+001634	skos:Concept	Opéra italien					001516		EP346550;PMB1506
+001635	skos:Concept	Opera pour enfants							PMB23593
+001636	skos:Concept	Opéra seria					001634		EP346552;PMB1507
+001638	skos:Concept	Opéra-ballet					001627		EP346544;PMB1508
+001639	skos:Concept	Opéra-bouffon							PMB1509
+001640	skos:Concept	Opéra-comique					001615		EP346538;PMB1510
+001641	skos:Concept	Or							
+001642	skos:Concept	Orage							
+001643	skos:Concept	Oraison							
+001644	skos:Concept	Oratoire							PMB1511
+001645	skos:Concept	Oratorio					001075		EP346629;PMB1512
+001646	skos:Concept	Orchestration					001151		EP346055
+001647	skos:Concept	Orchestration et instrumentation							PMB1513
+001648	skos:Concept	Orchestre							EP347075;PMB1514
+001649	skos:Concept	Orchestre de théâtre							
+001650	skos:Concept	Orchestre dramatique							
+001651	skos:Concept	Orchestre populaire							
+001652	skos:Concept	Orchestre privé							
+001653	skos:Concept	Ordination							
+001654	skos:Concept	Ordonnance de cérémonie							
+001655	skos:Concept	Ordonnance de la messe							
+001656	skos:Concept	Ordonnance de l'office							
+001657	skos:Concept	Ordre							EP346699;PMB1515
+001658	skos:Concept	Ordre religieux					000532		EP347044;PMB1516
+001659	skos:Concept	Organisation des spectacles					002480		EP347020
+001660	skos:Concept	Organiste					001152		EP346458;PMB1517
+001661	skos:Concept	Organologie							PMB23318
+001662	skos:Concept	Orgue					001145		EP346317;PMB1518
+001663	skos:Concept	Orgue de barbarie							
+001664	skos:Concept	Orgue hydraulique							
+001665	skos:Concept	Orgue pneumatique							
+001666	skos:Concept	Orgue portatif							
+001667	skos:Concept	Orgue positif							
+001668	skos:Concept	Orientalisme							EP346700
+001669	skos:Concept	Ornement							PMB1519
+001670	skos:Concept	Ornement de danse							
+001671	skos:Concept	Ornementation							EP346703;PMB22659
+001672	skos:Concept	Ornementation en danse					000438		EP345923
+001673	skos:Concept	Orpharion							
+001674	skos:Concept	Orphéon							PMB1520
+001675	skos:Concept	Ostinato							
+001676	skos:Concept	Ouïe					002274		EP346905
+001677	skos:Concept	Ouverture					000981		EP346522;PMB1521
+001678	skos:Concept	Ouverture à la française							
+001679	skos:Concept	Ouverture concertante							
+001680	skos:Concept	Ouvrage critique							
+001681	skos:Concept	Ouvrage de références							
+001682	skos:Concept	Ouvrage de terminologie							
+001683	skos:Concept	Ouvrage didactique							EP346707
+001684	skos:Concept	Ouvrage pédagogique							
+001685	skos:Concept	Page de la chambre							
+001686	skos:Concept	Page de la chapelle							
+001687	skos:Concept	Page de la grande écurie							
+001688	skos:Concept	Page de titre					000706		EP345959;PMB23541
+001689	skos:Concept	Palmire							PMB23167
+001690	skos:Concept	Pamphlet							EP346714
+001691	skos:Concept	Pandore							EP346716
+001692	skos:Concept	Pantaléon							
+001693	skos:Concept	Pantomime					002320		EP346936
+001694	skos:Concept	Pantomime dramatique							PMB1522
+001695	skos:Concept	Papetier							EP346717
+001696	skos:Concept	Papier					000706		EP345960
+001698	skos:Concept	Pâques		Pâque					PMB1524;PMB1523
+001699	skos:Concept	Pâques, dimanche ii							
+001700	skos:Concept	Pâques, dimanche iii							
+001701	skos:Concept	Pâques, dimanche iv							
+001702	skos:Concept	Pâques, dimanche v							
+001703	skos:Concept	Parade							PMB1525
+001704	skos:Concept	Paraphrase							PMB22568
+001705	skos:Concept	Parchemin							
+001706	skos:Concept	Pardessus de viole							PMB1526
+001707	skos:Concept	Pardessus de viole d'amour							PMB23297
+001708	skos:Concept	Parenté					000572		EP347051
+001709	skos:Concept	Paris, Louvre							PMB23161
+001710	skos:Concept	Parodie							EP346718;PMB1527
+001711	skos:Concept	Parodie spirituelle							EP346719;PMB1528
+001712	skos:Concept	Parodie-pantomime							PMB23361
+001713	skos:Concept	Paroisse							
+001714	skos:Concept	Paroissien							
+001715	skos:Concept	Partie							EP346720
+001716	skos:Concept	Partie à volonté							
+001717	skos:Concept	Partie ad libitum							
+001718	skos:Concept	Partie obligée							
+001719	skos:Concept	Parties séparées					000706		EP345965
+001720	skos:Concept	Partition					000706		EP345966;PMB23407
+001721	skos:Concept	Partition réduite					001720		EP345967
+001722	skos:Concept	Passacaille					000052		EP345750;PMB1529
+001723	skos:Concept	Passepied					000052		EP345751
+001725	skos:Concept	Passion du Christ							PMB1531
+001726	skos:Concept	Passions							PMB1532
+001727	skos:Concept	Pastiche							
+001728	skos:Concept	Pastorale					002320		EP346937;PMB1533
+001729	skos:Concept	Pastorale comique							
+001730	skos:Concept	Pastorale dramatique							EP346722
+001731	skos:Concept	Pastorale en musique					001627		EP346546
+001732	skos:Concept	Pastorale héroïque							EP346723;PMB1534
+001733	skos:Concept	Pastorale héroïque en musique							
+001735	skos:Concept	Pastourelle		Pastorelle			000394		EP346752
+001736	skos:Concept	Pater							
+001737	skos:Concept	Saint Paul, conversion							
+001738	skos:Concept	Pause							
+001739	skos:Concept	Pavane					000052		EP345752;PMB1535
+001740	skos:Concept	Pavillon							
+001741	skos:Concept	Paysage sonore							PMB24546
+001742	skos:Concept	Paysan							PMB23419
+001743	skos:Concept	Peau							
+001744	skos:Concept	Pédagogie							EP346726
+001745	skos:Concept	Pédale					000464		EP346106
+001746	skos:Concept	Pédalier							
+001747	skos:Concept	Peintre							EP346727
+001748	skos:Concept	Peinture					000244		EP345802;PMB1536
+001749	skos:Concept	Peinture et danse							PMB23196
+001750	skos:Concept	Peinture et musique							PMB23195
+001751	skos:Concept	Peinture monumentale							
+001752	skos:Concept	Pèlerinage					002492		EP347046
+001753	skos:Concept	Pendule					001148		EP346231
+001754	skos:Concept	Pendule à secondes					001753		EP346233
+001755	skos:Concept	Pénitence							PMB1537
+001756	skos:Concept	Pentecôte							PMB1538
+001757	skos:Concept	Perce							
+001758	skos:Concept	Perception d'un son					002206		EP345670
+001759	skos:Concept	Percussions							EP346728;PMB1539
+001760	skos:Concept	Périodique							EP346729;PMB1540
+001761	skos:Concept	Périodique musical					001863		EP346784;PMB1541
+001762	skos:Concept	Péroraison							
+001763	skos:Concept	Personnage							
+001764	skos:Concept	Petit air							PMB1542
+001765	skos:Concept	Petit choeur					000431		EP345859
+001766	skos:Concept	Petit choeur instrumental							EP346731
+001767	skos:Concept	Petit motet					001463		EP346636;PMB1459
+001768	skos:Concept	Petit office de Marie							
+001769	skos:Concept	Petit opéra					001627		EP346548;PMB1543
+001770	skos:Concept	Petit plein jeu							
+001771	skos:Concept	Petit violon du roi							
+001772	skos:Concept	Petite reprise							
+001773	skos:Concept	Petites clés							
+001774	skos:Concept	Pétition							
+001775	skos:Concept	Saint Philippe et Saint Jacques (fête)							
+001776	skos:Concept	Philosophe							EP346732
+001777	skos:Concept	Philosophie							EP346734;PMB1544
+001778	skos:Concept	Philosophie des Lumières					001777		EP346735
+001779	skos:Concept	Phonétique							EP346736;PMB22559
+001780	skos:Concept	Phrasé							EP346737
+001781	skos:Concept	Phrase musicale							
+001782	skos:Concept	Physique							EP346740;PMB23453
+001783	skos:Concept	Pianiste					001152		EP346460
+001784	skos:Concept	Piano							PMB1545
+001785	skos:Concept	Piano forte							
+001786	skos:Concept	Pièce de clavecin					001796		EP346573;PMB1547
+001787	skos:Concept	Pièce de guitare							PMB1548
+001788	skos:Concept	Pièce de luth							PMB1549
+001789	skos:Concept	Pièce de pianoforte							PMB1550
+001790	skos:Concept	Pièce de théâtre							EP346741;PMB1551
+001791	skos:Concept	Pièce de théorbe							PMB22490
+001792	skos:Concept	Pièce de vielle							PMB1552
+001793	skos:Concept	Pièce de vihuela							PMB1553
+001794	skos:Concept	Pièce de viole							PMB1554
+001795	skos:Concept	Pièce d'orgue					001796		EP346574;PMB1546
+001796	skos:Concept	Pièce instrumentale					001533		EP346566;PMB1555
+001797	skos:Concept	Pièce pour piano							PMB1556
+001798	skos:Concept	Pierre et Paul (fête)							
+001799	skos:Concept	Pincé					000048		EP345728
+001800	skos:Concept	Piqué							
+001801	skos:Concept	Pizzicato							
+001802	skos:Concept	Plagiat							EP346742
+001804	skos:Concept	Plain-chant					001544		EP346638;PMB22991
+001805	skos:Concept	Plain-chant alterné							
+001806	skos:Concept	Plain-chant figuré							
+001807	skos:Concept	Plain-chant mesuré					001804		EP346640
+001808	skos:Concept	Plain-chant musical					001804		EP346641
+001809	skos:Concept	Plainte							
+001810	skos:Concept	Plainte en musique					000049		EP346618
+001811	skos:Concept	Plan							PMB1558
+001812	skos:Concept	Plectre							
+001813	skos:Concept	Plein jeu							
+001814	skos:Concept	Poème							
+001815	skos:Concept	Poésie							EP346744;PMB1559
+001816	skos:Concept	Poésie chrétienne							PMB22567
+001817	skos:Concept	Poésie de cour					001815		EP346754
+001818	skos:Concept	Poésie didactique							
+001819	skos:Concept	Poésie dramatique							
+001820	skos:Concept	Poésie élogieuse					001815		EP346755
+001821	skos:Concept	Poésie épique					001815		EP488862
+001822	skos:Concept	Poésie galante					001815		EP346756
+001823	skos:Concept	Poésie latine					001828		EP346767
+001824	skos:Concept	Poésie lyrique					001815		EP346757
+001825	skos:Concept	Poésie morale							PMB1560
+001826	skos:Concept	Poésie pastorale					001815		EP346761
+001827	skos:Concept	Poésie satirique					001815		EP346764
+001828	skos:Concept	Poésie spirituelle					001815		EP346766
+001829	skos:Concept	Poète					000176		EP345785
+001830	skos:Concept	Poétique							EP346770;PMB22501
+001832	skos:Concept	Point d'orgue							
+001833	skos:Concept	Point d'orgue improvisé							
+001834	skos:Concept	Polémique							EP346776
+001835	skos:Concept	Police							PMB23436
+001836	skos:Concept	Police du spectacle							
+001837	skos:Concept	Politique							PMB23323
+001838	skos:Concept	Politique musicale							
+001839	skos:Concept	Polychoralité					000776		EP346039;PMB1561
+001840	skos:Concept	Polyphonie					000776		EP346041
+001841	skos:Concept	Pompe funèbre							EP346777
+001842	skos:Concept	Ponctuation							EP346778
+001843	skos:Concept	Pont-neuf							PMB1562
+001844	skos:Concept	Porcelaine							
+001845	skos:Concept	Port de l'instrument					002293		EP346915
+001846	skos:Concept	Port de voix					000048		EP345729
+001847	skos:Concept	Portamento							
+001848	skos:Concept	Portrait							EP346780
+001849	skos:Concept	Position de l'instrumentiste							
+001850	skos:Concept	Pot-pourri					001796		EP346577
+001851	skos:Concept	Pour la pluie							
+001852	skos:Concept	Pour le Dauphin							
+001853	skos:Concept	Pour le roi							
+001854	skos:Concept	Pour le roi en temps de guerre							
+001855	skos:Concept	Pratiques musicales							PMB24023
+001856	skos:Concept	Prébende							
+001857	skos:Concept	Préface							EP346782
+001858	skos:Concept	Prélude					001796		EP346578;PMB23518
+001859	skos:Concept	Prélude non mesuré							
+001860	skos:Concept	Présentation de Jésus							
+001861	skos:Concept	Présentation de Marie							
+001862	skos:Concept	Presse							PMB1564
+001863	skos:Concept	Presse périodique							EP346783
+001864	skos:Concept	Prière							EP346785;PMB1565
+001865	skos:Concept	Prière à la Vierge Marie							PMB1566
+001866	skos:Concept	Prière pour le roi							PMB1567
+001867	skos:Concept	Prieuré							
+001868	skos:Concept	Prime							
+001869	skos:Concept	Principaux							
+001870	skos:Concept	Principe élémentaire de musique							
+001871	skos:Concept	Privilège royal							PMB22884
+001872	skos:Concept	Procédé scénique							
+001873	skos:Concept	Procession					000382		EP345845;PMB1568
+001874	skos:Concept	Processionnal					001283		EP346367
+001875	skos:Concept	Production d'un son							
+001876	skos:Concept	Professeur de chant							
+001877	skos:Concept	Professeur de danse							EP346790
+001878	skos:Concept	Professeur de musique					001476		EP346500
+001879	skos:Concept	Profession religieuse							
+001880	skos:Concept	Projet d'action culturelle							PMB24533
+001881	skos:Concept	Prologue					000981		EP346524;PMB23346
+001882	skos:Concept	Prologue littéraire							EP346791
+001883	skos:Concept	Prononciation							EP346792;PMB1569
+001884	skos:Concept	Prononciation du latin							PMB1570
+001885	skos:Concept	Propagation d'un son							
+001886	skos:Concept	Proportion					001361		EP346398
+001887	skos:Concept	Proportion arithmétique							
+001888	skos:Concept	Proportion composée							
+001889	skos:Concept	Proportion géométrique							
+001890	skos:Concept	Proportion harmonique							
+001891	skos:Concept	Proportion simple							
+001892	skos:Concept	Propre de la messe							
+001893	skos:Concept	Prose							EP346793;PMB23373
+001894	skos:Concept	Prose des morts					002164		EP346200
+001895	skos:Concept	Prose pour le jour de Pâques							PMB1571
+001896	skos:Concept	Prosodie					001957		EP346929;PMB22553
+001897	skos:Concept	Protestant							PMB23484
+001898	skos:Concept	Protestantisme					000440		EP345864
+001899	skos:Concept	Psallette							EP346794;PMB23054
+001900	skos:Concept	Psalmodie					002293		EP346921;PMB1572
+001901	skos:Concept	Psaltérion							PMB1573
+001902	skos:Concept	Psaume							EP346795;PMB1574
+001903	skos:Concept	Psaume contrapuntique							
+001904	skos:Concept	Psaume en français					000334		EP347083
+001905	skos:Concept	Psaume en musique							EP346796
+001906	skos:Concept	Psaume en prose							
+001907	skos:Concept	Psaume en vers							
+001908	skos:Concept	Psaume harmonisé					001905		EP346797
+001909	skos:Concept	Psaume paraphrasé en français					000334		EP347084
+001910	skos:Concept	Psaume paraphrasé en latin							
+001911	skos:Concept	Psaume protestant							
+001912	skos:Concept	Psautier					000253		EP346358
+001913	skos:Concept	Psautier huguenot							
+001914	skos:Concept	Public					002480		EP347026
+001915	skos:Concept	Publication périodique							
+001916	skos:Concept	Pulsation					000047		EP345719
+001917	skos:Concept	Purification de la Vierge Marie							PMB1576
+001918	skos:Concept	Purification de Marie							
+001919	skos:Concept	Qualité d'un son							
+001920	skos:Concept	Quantité de public							
+001921	skos:Concept	Quarré							
+001922	skos:Concept	Quarte							
+001923	skos:Concept	Quatrain							
+001924	skos:Concept	Quatre temps							
+001925	skos:Concept	Quatuor							EP346802
+001926	skos:Concept	Quatuor à cordes					001925		EP346803;PMB1577
+001927	skos:Concept	Quatuor à vents							
+001928	skos:Concept	Quatuor concertant					001925		EP346804;PMB1578
+001929	skos:Concept	Quatuor instrumental							PMB1579
+001930	skos:Concept	Quatuor vocal							PMB1580
+001931	skos:Concept	Querelle de la musique italienne. 1702-1706							PMB23004
+001932	skos:Concept	Querelle des anciens et des modernes					001940		EP346806;PMB1581
+001933	skos:Concept	Querelle des bouffons					001940		EP346807
+001934	skos:Concept	Querelle des bouffons 1752-1754							PMB1582
+001935	skos:Concept	Querelle des gluckistes et des piccinnistes					001940		EP346808
+001936	skos:Concept	Querelle des gluckistes et des piccinnistes. 1775-1779							PMB1583
+001937	skos:Concept	Querelle des lullistes et des ramistes					001940		EP346809
+001938	skos:Concept	Querelle des ramistes et des rousseauistes							
+001939	skos:Concept	Querelle des théoriciens et des praticiens							
+001940	skos:Concept	Querelle esthétique							EP346805
+001941	skos:Concept	Quinquagésime							
+001942	skos:Concept	Quinte							
+001943	skos:Concept	Quinte instrumentale					001149		EP346321
+001944	skos:Concept	Quintette							EP346810
+001945	skos:Concept	Quintette à cordes					001944		EP346811;PMB1584
+001946	skos:Concept	Quintette à vents							PMB1585
+001947	skos:Concept	Quintette concertant							
+001948	skos:Concept	Quintette instrumental							PMB1586
+001949	skos:Concept	Quintette vocal							PMB1587
+001950	skos:Concept	Quinton							PMB1588
+001951	skos:Concept	Rameaux							
+001952	skos:Concept	Rapport							PMB23276
+001953	skos:Concept	Rapport danse/musique							EP346812
+001954	skos:Concept	Rapport de fréquences							
+001955	skos:Concept	Rapport d'intervalles							
+001956	skos:Concept	Rapport peinture/musique							EP346814
+001957	skos:Concept	Rapport texte/musique					002314		EP346928
+001958	skos:Concept	Réaction du public							EP346815
+001959	skos:Concept	Réalisation de la basse continue					000223		EP345657
+001960	skos:Concept	Réalisme							EP346816
+001961	skos:Concept	Rebec							PMB23101
+001962	skos:Concept	Réception d'oeuvre					000654		EP345910
+001963	skos:Concept	Recette de représentation							
+001964	skos:Concept	Récit					001544		EP346642
+001965	skos:Concept	Récit de ballet					000981		EP346525
+001966	skos:Concept	Récit de basse					001964		EP346643
+001968	skos:Concept	Récit de voyage							EP346817;PMB23443
+001969	skos:Concept	Récitant							
+001970	skos:Concept	Récitatif					001544		EP346644;PMB1589
+001971	skos:Concept	Récitatif accompagné					001970		EP346645
+001972	skos:Concept	Récitatif mesuré					001970		EP346646
+001973	skos:Concept	Récitatif simple					001970		EP346647
+001974	skos:Concept	Recrutement					000963		EP347057
+001975	skos:Concept	Recueil							EP346818
+001976	skos:Concept	Recueil collectif					001975		EP346824
+001977	skos:Concept	Recueil imprimé					001975		EP346825
+001978	skos:Concept	Recueil manuscrit					001975		EP346826
+001979	skos:Concept	Réduction					000141		EP345775
+001980	skos:Concept	Réforme liturgique							EP346827
+001981	skos:Concept	Refrain							
+001982	skos:Concept	Réfutation							
+001983	skos:Concept	Régale							
+001984	skos:Concept	Regard du XIXe siècle							EP346829
+001985	skos:Concept	Regard du XXe siècle							EP346830
+001986	skos:Concept	Regard du XXIe siècle							EP346831
+001987	skos:Concept	Registration							
+001988	skos:Concept	Registre							EP346832
+001989	skos:Concept	Registre instrumental					001988		EP346833
+001990	skos:Concept	Registre paroissial							
+001991	skos:Concept	Registre vocal					001988		EP346834
+001992	skos:Concept	Réglage des instruments					000892		EP346118
+001993	skos:Concept	Règle à clavier					001148		EP346234
+001994	skos:Concept	Règle de faction théâtrale							
+001995	skos:Concept	Règle de la composition							EP346835
+001996	skos:Concept	Règle de l'action théâtrale							EP346836
+001997	skos:Concept	Règle de l'octave					001050		EP346037
+001998	skos:Concept	Règlement d'association							
+001999	skos:Concept	Règlement de maîtrise							
+002000	skos:Concept	Réglementation de la vie musicale					002485		EP347027
+002001	skos:Concept	Règles de composition							PMB1590
+002002	skos:Concept	Relation							PMB23271
+002003	skos:Concept	Relations entre artistes					002005		EP347061
+002004	skos:Concept	Relations entre musiciens							
+002005	skos:Concept	Relations sociales					002493		EP347059
+002006	skos:Concept	Relieur							EP346837
+002007	skos:Concept	Religieuse					000532		EP347045
+002008	skos:Concept	Religion							PMB23302
+002009	skos:Concept	Reliure					000706		EP345968
+002010	skos:Concept	Remaniement d'oeuvre							
+002011	skos:Concept	Remarques							
+002012	skos:Concept	Rémunération					000572		EP347053
+002013	skos:Concept	Renversement							
+002014	skos:Concept	Renvoi							
+002015	skos:Concept	Répertoire					000706		EP345969
+002016	skos:Concept	Répétition					000654		EP345911
+002018	skos:Concept	Répons							EP346839;PMB1591
+002019	skos:Concept	Réponse							
+002020	skos:Concept	Repos							
+002021	skos:Concept	Représentation							PMB23348
+002022	skos:Concept	Représentation d'oeuvre					000654		EP345912
+002023	skos:Concept	Représentation théâtrale							EP346841
+002024	skos:Concept	Reprise					000972		EP346161
+002025	skos:Concept	Reprise d'oeuvre					000654		EP345913
+002026	skos:Concept	Requiem							EP346842
+002028	skos:Concept	Résine							
+002029	skos:Concept	Résonance					000027		EP345683
+002030	skos:Concept	Résonance harmonique							
+002031	skos:Concept	Respiration					002293		EP346922
+002032	skos:Concept	Restauration d'instruments de musique							EP346843
+002033	skos:Concept	Résumé d'action							
+002034	skos:Concept	Résurrection							PMB1592
+002035	skos:Concept	Retard							
+002036	skos:Concept	Revenu							EP346845
+002037	skos:Concept	Révision d'oeuvre					000654		EP345914
+002038	skos:Concept	Révolution française							PMB1593
+002039	skos:Concept	Revue							
+002040	skos:Concept	Rhétorique							EP346847;PMB1594
+002041	skos:Concept	Rhétorique littéraire					002040		EP346848
+002042	skos:Concept	Rhétorique musicale					002040		EP346849
+002043	skos:Concept	Ricercare					001796		EP346580;PMB1595
+002044	skos:Concept	Rigaudon					000052		EP345753
+002045	skos:Concept	Ritournelle					001796		EP346581
+002046	skos:Concept	Rituel					001283		EP346368
+002047	skos:Concept	Rogations							EP346850
+002048	skos:Concept	Roi des ménétriers							
+002049	skos:Concept	Roi des violons					001382		EP346469
+002050	skos:Concept	Rôle					000035		EP345692
+002051	skos:Concept	Rôle féminin					002050		EP345693
+002052	skos:Concept	Rôle principal							
+002053	skos:Concept	Romance instrumentale					001796		EP346582;PMB1596
+002054	skos:Concept	Romance poétique					001815		EP346768
+002055	skos:Concept	Romance vocale					000049		EP346619;PMB1597
+002056	skos:Concept	Ronde							PMB22522
+002057	skos:Concept	Ronde de table							
+002058	skos:Concept	Rondeau							PMB1598
+002059	skos:Concept	Rondeau instrumental							
+002060	skos:Concept	Rondeau poétique							
+002061	skos:Concept	Rondeau vocal					000049		EP346620
+002062	skos:Concept	Rondo instrumental							
+002063	skos:Concept	Rondo vocal							
+002064	skos:Concept	Rosace							
+002065	skos:Concept	Rose							
+002066	skos:Concept	Roulade							
+002067	skos:Concept	Roulement de tonnerre							
+002068	skos:Concept	Royauté							PMB1599
+002069	skos:Concept	Rythme							EP346854
+002070	skos:Concept	Rythme pointé							
+002071	skos:Concept	Sacqueboute							PMB23357
+002072	skos:Concept	Sacre d'un évêque							
+002073	skos:Concept	Sacre d'un roi							EP346855
+002074	skos:Concept	Saint Augustin							PMB1601
+002075	skos:Concept	Saint Avit							PMB22598
+002076	skos:Concept	Saint Barthélémy							PMB1602
+002077	skos:Concept	Saint Benoît							PMB1603
+002078	skos:Concept	Saint Bernard							PMB1604
+002079	skos:Concept	Saint Bruno							PMB1605
+002080	skos:Concept	Saint Corps de Jésus							
+002081	skos:Concept	Saint Denis							PMB1606
+002082	skos:Concept	Saint Dominique							PMB1607
+002083	skos:Concept	Saint Etienne							PMB1608
+002084	skos:Concept	Saint François							PMB1609
+002085	skos:Concept	Saint Ignace							PMB1610
+002086	skos:Concept	Saint Jean l'Evangéliste							PMB1611
+002087	skos:Concept	Saint Jean-Baptiste	Saint Jean le Baptiste						PMB1612
+002088	skos:Concept	Saint Joseph							PMB1613
+002089	skos:Concept	Saint Louis	Louis IX##le Prud'homme						PMB1614
+002090	skos:Concept	Saint Maclou							PMB1615
+002091	skos:Concept	Saint Martin							PMB1616
+002092	skos:Concept	Saint Mathias							PMB1617
+002093	skos:Concept	Saint Michel							PMB1618
+002094	skos:Concept	Saint Nicolas							PMB1619
+002095	skos:Concept	Saint Patrick							PMB1620
+002096	skos:Concept	Saint Paul							PMB1621
+002097	skos:Concept	Saint Pie							PMB1622
+002098	skos:Concept	Saint Pierre							PMB1623
+002099	skos:Concept	Saint Roch							PMB1624
+002100	skos:Concept	Saint-Sacrement							PMB1625;PMB1630
+002101	skos:Concept	Saint Sulpice							PMB1626
+002102	skos:Concept	Saint Vincent de Paul							PMB1627
+002103	skos:Concept	Saint Xavier							PMB1628
+002104	skos:Concept	Sainte Agathe							PMB1631
+002105	skos:Concept	Sainte Agnès							PMB1632
+002106	skos:Concept	Sainte Anne							PMB1633
+002107	skos:Concept	Sainte Augustine							PMB1634
+002108	skos:Concept	Sainte Cécile							PMB1635
+002109	skos:Concept	Sainte Chantal							PMB1636
+002110	skos:Concept	Sainte Elisabeth							PMB1637
+002111	skos:Concept	Sainte Geneviève							PMB1638
+002112	skos:Concept	Sainte Hilda							PMB22507
+002113	skos:Concept	Sainte Madeleine							PMB1639
+002114	skos:Concept	Sainte Marguerite							PMB1640
+002115	skos:Concept	Sainte Marie-Madeleine		Sainte Marie-Magdeleine					PMB1642
+002116	skos:Concept	Sainte Odile							PMB1643
+002117	skos:Concept	Sainte Suzanne							PMB1644
+002118	skos:Concept	Sainte Thérèse							PMB1645
+002120	skos:Concept	Sainte Vierge							
+002121	skos:Concept	Sainte-Croix							PMB1647
+002122	skos:Concept	Saint-Esprit							PMB1629
+002123	skos:Concept	Saints innocents							PMB1648
+002125	skos:Concept	Salle de concerts							
+002126	skos:Concept	Salle de spectacle							PMB24557;EP346856
+002128	skos:Concept	Salle des machines					002127		EP346857
+002129	skos:Concept	Salon							PMB22909
+002130	skos:Concept	Salon privé							EP346859
+002131	skos:Concept	Salut du Saint-Sacrement					000382		EP345846
+002132	skos:Concept	Samedi							
+002133	skos:Concept	Samedi de Pâques							
+002134	skos:Concept	Samedi in albis							
+002135	skos:Concept	Samedi saint							
+002136	skos:Concept	Sanctus							
+002137	skos:Concept	Sanglot							
+002138	skos:Concept	Saqueboute							
+002139	skos:Concept	Saqueboutier							
+002140	skos:Concept	Sarabande					000052		EP345754;PMB1649
+002141	skos:Concept	Satire							EP346860
+002142	skos:Concept	Sautereau					000888		EP346102
+002143	skos:Concept	Saynète							
+002144	skos:Concept	Scène biblique							PMB1650
+002145	skos:Concept	Scène de divertissement					000981		EP346526
+002146	skos:Concept	Scène de pièce de théâtre							EP346861
+002147	skos:Concept	Scène de théâtre					002127		EP346858
+002148	skos:Concept	Scène dramatique							PMB1651
+002149	skos:Concept	Scénographie							EP346862
+002150	skos:Concept	Schola							
+002151	skos:Concept	Science							PMB23301
+002152	skos:Concept	Sculpteur							EP346864
+002153	skos:Concept	Sculpture					000244		EP345803;PMB1652
+002154	skos:Concept	Seconde							
+002155	skos:Concept	Semaine							
+002156	skos:Concept	Semaine sainte							EP346865;PMB1653
+002157	skos:Concept	Senza la cara							PMB23143
+002158	skos:Concept	Sept Douleurs de Marie							
+002159	skos:Concept	Septième							
+002160	skos:Concept	Septuagésime							
+002161	skos:Concept	Septuor instrumental							PMB1654
+002162	skos:Concept	Sépulture							
+002163	skos:Concept	Sépulture des enfants							
+002164	skos:Concept	Séquence					001088		EP346199;PMB1655
+002165	skos:Concept	Séquence à la Vierge Marie						Stabat Mater	PMB1656
+002166	skos:Concept	Sérénade							PMB1657
+002167	skos:Concept	Sérénade instrumentale							
+002168	skos:Concept	Sérénade vocale							EP346869
+002169	skos:Concept	Série harmonique							
+002170	skos:Concept	Serpent (instrument)							PMB1658
+002171	skos:Concept	Sexagésime							
+002172	skos:Concept	Sexte							
+002173	skos:Concept	Sextuor							EP346871
+002174	skos:Concept	Sextuor à cordes					002173		EP346872
+002175	skos:Concept	Sextuor à vents							
+002176	skos:Concept	Sextuor instrumental							PMB1659
+002177	skos:Concept	Sexualité et musique							PMB22993
+002178	skos:Concept	Sicilienne					000052		EP345755
+002179	skos:Concept	Siècle des Lumières							PMB1660
+002180	skos:Concept	Sifflet							
+002181	skos:Concept	Signe de liaison							
+002182	skos:Concept	Signe de mesure							
+002183	skos:Concept	Signe musical					001587		EP346658
+002184	skos:Concept	Silence							
+002185	skos:Concept	Simandre							
+002186	skos:Concept	Siméon							PMB1661
+002187	skos:Concept	Saint Simon et Saint Jude (fête)							
+002188	skos:Concept	Simphonie					001796		EP346583
+002189	skos:Concept	Singspiel							PMB1662
+002190	skos:Concept	Sistre							
+002191	skos:Concept	Sixte							
+002192	skos:Concept	Sizain							
+002193	skos:Concept	Société							PMB23356
+002194	skos:Concept	Société de concerts							EP346874
+002195	skos:Concept	Société de Jésus							PMB1663
+002196	skos:Concept	Société musicale							EP346875
+002197	skos:Concept	Société musicale							
+002198	skos:Concept	Solfège au naturel							
+002199	skos:Concept	Solfège livre					001683		EP346711
+002200	skos:Concept	Solfège théorie							EP346876
+002201	skos:Concept	Soliste					001476		EP346502
+002202	skos:Concept	Solmisation							EP346877;PMB1664
+002203	skos:Concept	Solo vocal							PMB1665
+002204	skos:Concept	Sommeil					001108		EP346208
+002205	skos:Concept	Sommier					000892		EP346119
+002206	skos:Concept	Son					000025		EP345665;PMB1666
+002207	skos:Concept	Son coupé							
+002208	skos:Concept	Son fixe							
+002209	skos:Concept	Son fondamental							
+002210	skos:Concept	Son harmonique					002206		EP345676
+002211	skos:Concept	Sonate					001796		EP346584;PMB1667
+002212	skos:Concept	Sonate accompagnée							PMB22545
+002213	skos:Concept	Sonate en quatuor							PMB1668
+002214	skos:Concept	Sonate en trio							PMB1669
+002215	skos:Concept	Sonate pour alto							PMB1670
+002216	skos:Concept	Sonate pour basson							PMB1671
+002217	skos:Concept	Sonate pour clavecin							PMB1672
+002218	skos:Concept	Sonate pour clavecin et dessus							PMB1673
+002219	skos:Concept	Sonate pour flûte							PMB1674
+002220	skos:Concept	Sonate pour harpe							PMB1675
+002221	skos:Concept	Sonate pour pianoforte							PMB1676
+002222	skos:Concept	Sonate pour trompette							PMB1677
+002223	skos:Concept	Sonate pour vielle							PMB1678
+002224	skos:Concept	Sonate pour viole de gambe							PMB1679
+002225	skos:Concept	Sonate pour violon							PMB1680
+002226	skos:Concept	Sonate pour violoncelle							PMB1681
+002227	skos:Concept	Sonatille							
+002228	skos:Concept	Sonatine							PMB1682
+002229	skos:Concept	Song							PMB1683
+002230	skos:Concept	Songe							EP346879
+002231	skos:Concept	Sonnet					000973		EP346164;PMB1684
+002232	skos:Concept	Sonneur					001152		EP346461
+002233	skos:Concept	Sonomètre							
+002234	skos:Concept	Sonorité							
+002235	skos:Concept	Soprano							
+002236	skos:Concept	Souffle							
+002237	skos:Concept	Soufflerie							
+002238	skos:Concept	Souffleur d'orgue							
+002239	skos:Concept	Souper							PMB24529
+002240	skos:Concept	Soupir							
+002241	skos:Concept	Source littéraire							EP346881
+002242	skos:Concept	Source musicale							EP346882
+002243	skos:Concept	Sourdine					000888		EP346103
+002244	skos:Concept	Sous-maître de chapelle					001494		EP488888
+002245	skos:Concept	Spectacle							EP346884;PMB1685
+002246	skos:Concept	Spectacle de rue							EP346885
+002247	skos:Concept	Spiritualité							EP346887
+002248	skos:Concept	Stance							PMB1686
+002249	skos:Concept	Stances					000973		EP346165
+002250	skos:Concept	Structure musicale							PMB1687
+002251	skos:Concept	Style allemand					002259		EP346893
+002252	skos:Concept	Style baroque					002259		EP346894
+002253	skos:Concept	Style classique					002259		EP346895
+002254	skos:Concept	Style concertant					002259		EP346896
+002255	skos:Concept	Style de Mannheim							EP346891
+002256	skos:Concept	Style français					002259		EP346897
+002257	skos:Concept	Style galant					002259		EP346898
+002258	skos:Concept	Style italien					002259		EP346899
+002259	skos:Concept	Style musical							EP346892
+002260	skos:Concept	Style rococo					002259		EP346900
+002261	skos:Concept	Suite					001796		EP346586;PMB1688
+002262	skos:Concept	Suite de danses							PMB1690
+002263	skos:Concept	Suite d'orchestre							PMB1689
+002264	skos:Concept	Suite pour instrument							PMB1691
+002265	skos:Concept	Surintendant de la musique					001483		EP346481
+002266	skos:Concept	Symbole							PMB23416
+002267	skos:Concept	Symbolisme							EP346901
+002268	skos:Concept	Symphonie					001796		EP346589;PMB1692
+002269	skos:Concept	Symphonie concertante							PMB1693
+002270	skos:Concept	Système d'accord							EP346902
+002271	skos:Concept	Système de musique					000025		EP345677
+002272	skos:Concept	Tablature					001587		EP346668;PMB1694
+002273	skos:Concept	Table d'agréments							PMB23352
+002274	skos:Concept	Table d'harmonie							EP346904
+002275	skos:Concept	Taille instrumentale					001149		EP346322
+002276	skos:Concept	Taille voix					000413		EP346438
+002277	skos:Concept	Tambour					001144		EP346282;PMB1695
+002278	skos:Concept	Tambourin							PMB1696
+002279	skos:Concept	Tambourineur					001152		EP346462
+002280	skos:Concept	Tampon							
+002281	skos:Concept	Tarentelle							PMB1697
+002282	skos:Concept	Tárogató							PMB23098
+002283	skos:Concept	Te Deum					000382		EP345847
+002284	skos:Concept	Technique							PMB23479
+002285	skos:Concept	Technique chorégraphique							
+002286	skos:Concept	Technique d'archet					002293		EP346916
+002287	skos:Concept	Technique d'arrangement							EP346907
+002288	skos:Concept	Technique de danse							EP346908
+002289	skos:Concept	Technique de gravure							
+002290	skos:Concept	Technique de jeu							
+002291	skos:Concept	Technique d'impression							
+002292	skos:Concept	Technique du chant							
+002293	skos:Concept	Technique instrumentale							EP346913
+002294	skos:Concept	Technique oratoire							
+002295	skos:Concept	Technique vocale							EP346918;PMB24549
+002296	skos:Concept	Témoignage							PMB23290
+002297	skos:Concept	Tempérament					002271		EP345678;PMB1698
+002298	skos:Concept	Tempérament égal							
+002299	skos:Concept	Tempérament mésotonique							
+002300	skos:Concept	Tempérament pythagoricien							
+002301	skos:Concept	Tempête					001108		EP346209
+002302	skos:Concept	Tempo							EP346923;PMB1699
+002303	skos:Concept	Temps de noël							
+002304	skos:Concept	Temps de pâques							
+002305	skos:Concept	Ténèbre							PMB23381
+002307	skos:Concept	Ténor							PMB23469
+002308	skos:Concept	Tercet							
+002309	skos:Concept	Tessiture							EP346924
+002310	skos:Concept	Testament					000034		EP345991;PMB23299
+002311	skos:Concept	Tétracorde					000753		EP346009
+002312	skos:Concept	Texte biblique							EP346925
+002313	skos:Concept	Texte liturgique							EP346926
+002314	skos:Concept	Texte mis en musique							EP346927
+002315	skos:Concept	Texte spirituel en latin							
+002316	skos:Concept	Texte spirituel							
+002317	skos:Concept	Texte spirituel en langue vulgaire							
+002318	skos:Concept	Texte spirituel en prose							
+002319	skos:Concept	Texte spirituel en vers							
+002320	skos:Concept	Théâtre							EP346932;PMB1700
+002321	skos:Concept	Théâtre à machines					002320		EP346938
+002322	skos:Concept	Théâtre allemand							EP346947
+002323	skos:Concept	Théâtre ambulant							PMB22840
+002324	skos:Concept	Théâtre de collège							EP346948
+002325	skos:Concept	Théâtre de foire							EP346949
+002326	skos:Concept	Théâtre de la foire							PMB22839
+002327	skos:Concept	Théâtre de société							EP346950
+002328	skos:Concept	Théâtre espagnol							EP346951
+002329	skos:Concept	Théâtre italien							EP346952
+002330	skos:Concept	Théâtre jésuite							EP346954
+002331	skos:Concept	Théâtre lyrique							EP346955
+002332	skos:Concept	Théâtre populaire							EP346956
+002333	skos:Concept	Théâtre religieux							EP346957
+002334	skos:Concept	Thématique							
+002335	skos:Concept	Thématique du livret					001285		EP346371
+002336	skos:Concept	Thème							
+002337	skos:Concept	Thème biblique					002338		EP346960
+002338	skos:Concept	Thème littéraire							EP346959
+002339	skos:Concept	Thème musical					000972		EP346162
+002340	skos:Concept	Thème mythologique					002338		EP346961
+002341	skos:Concept	Thème politique					002338		EP346962
+002342	skos:Concept	Théorbe							PMB1702
+002343	skos:Concept	Théorbe romain							PMB1703
+002344	skos:Concept	Théorbiste					001152		EP346463
+002345	skos:Concept	Théoricien							EP346963
+002346	skos:Concept	Théoricien de la musique					002345		EP346964
+002347	skos:Concept	Théorie de la vraisemblance							
+002348	skos:Concept	Théorie de l'hexacorde							PMB1704
+002349	skos:Concept	Théorie de l'imitation							PMB1705
+002350	skos:Concept	Théorie des passions							EP346966
+002351	skos:Concept	Théorie des proportions							
+002352	skos:Concept	Théorie esthétique							EP346968
+002353	skos:Concept	Théorie musicale							EP346969;PMB1706
+002354	skos:Concept	Théorie musicale élémentaire							
+002355	skos:Concept	Théorie scientifique							EP346971
+002356	skos:Concept	Thérèse							
+002357	skos:Concept	Saint Thomas							
+002358	skos:Concept	Tierce (liturgie)							
+002359	skos:Concept	Tierce (musique)							
+002360	skos:Concept	Timbale					001144		EP346284;PMB1707
+002361	skos:Concept	Timbalier					001152		EP346464
+002362	skos:Concept	Timbre						Timbre	EP346972;PMB24525
+002363	skos:Concept	Timbre de la voix							
+002364	skos:Concept	Timbre d'un son							
+002365	skos:Concept	Tirade							
+002366	skos:Concept	Titre							EP346974
+002367	skos:Concept	Toccata					001796		EP346591;PMB1708
+002368	skos:Concept	Tombeau					001796		EP346592;PMB1709
+002369	skos:Concept	Tombeau poétique					001815		EP346769
+002370	skos:Concept	Tonalité					000753		EP346010;PMB1710
+002371	skos:Concept	Touche de clavier							
+002372	skos:Concept	Touche d'instrument à archet							
+002373	skos:Concept	Toucher							
+002374	skos:Concept	Tour de gosier							
+002375	skos:Concept	Tourdion							
+002376	skos:Concept	Tournoi							EP346976
+002377	skos:Concept	Tous les temps							
+002378	skos:Concept	Toussaint							PMB1711
+002379	skos:Concept	Traduction							EP346977
+002380	skos:Concept	Tragédie					002320		EP346939;PMB1712
+002381	skos:Concept	Tragédie à machines					002380		EP346940
+002382	skos:Concept	Tragédie antique					002380		EP346941
+002383	skos:Concept	Tragédie ballet							EP346978
+002384	skos:Concept	Tragédie biblique							EP346979;PMB24528
+002385	skos:Concept	Tragédie classique					002380		EP346942
+002386	skos:Concept	Tragédie de collège					002380		EP346943
+002387	skos:Concept	Tragédie en musique					001627		EP346549;PMB1713
+002388	skos:Concept	Tragédie jésuite							
+002389	skos:Concept	Tragédie lyrique							PMB24526
+002390	skos:Concept	Tragédie mêlée de musique					001615		EP346541
+002391	skos:Concept	Tragédien							EP346980
+002392	skos:Concept	Tragédienne							
+002393	skos:Concept	Tragédie-opéra							PMB24532
+002394	skos:Concept	Tragi-comédie					002380		EP346945;PMB1717
+002395	skos:Concept	Tragi-comédie en musique					001627		EP485758
+002396	skos:Concept	Tragi-comédie lyrique							
+002397	skos:Concept	Tragi-comédie-ballet							
+002398	skos:Concept	Trait							
+002399	skos:Concept	Traité					001683		EP346712;PMB1718
+002400	skos:Concept	Traité théorique							EP346982
+002401	skos:Concept	Transcription							EP346983;PMB23242
+002402	skos:Concept	Transfiguration							
+002403	skos:Concept	Transfiguration du Christ							PMB1719
+002404	skos:Concept	Transfixion							
+002405	skos:Concept	Transposition							EP346984;PMB23042
+002406	skos:Concept	Traversa							
+002407	skos:Concept	Traverso							EP346986
+002408	skos:Concept	Tréfileur							PMB23095
+002409	skos:Concept	Tremblement					000048		EP345730
+002410	skos:Concept	Tremblement de terre							
+002411	skos:Concept	Tremendo							
+002412	skos:Concept	Tremolo					000048		EP345731
+002413	skos:Concept	Triduum pascal					002156		EP346867
+002414	skos:Concept	Trille					000048		EP345732
+002415	skos:Concept	Trillo à l'italienne							
+002416	skos:Concept	Trinité							
+002417	skos:Concept	Sainte Trinité							PMB1720
+002418	skos:Concept	Trio							EP346988
+002419	skos:Concept	Trio à cordes					002418		EP346989
+002420	skos:Concept	Trio à vents					002418		EP346990
+002421	skos:Concept	Trio concertant							
+002422	skos:Concept	Trio instrumental					002418		EP346991;PMB1721
+002423	skos:Concept	Trio vocal					002418		EP346992;PMB1722
+002424	skos:Concept	Trochée							
+002425	skos:Concept	Trombone							PMB1723
+002426	skos:Concept	Trompe							
+002427	skos:Concept	Trompe de chasse							
+002428	skos:Concept	Trompette							PMB1724
+002429	skos:Concept	Trompette marine							PMB1725
+002430	skos:Concept	Trompette marine d'amour							PMB23295
+002431	skos:Concept	Trompettiste					001152		EP346465
+002432	skos:Concept	Troubadour							PMB1726
+002433	skos:Concept	Troupe de théâtre							EP346993
+002434	skos:Concept	Troupe de théâtre ambulante					002433		EP346994
+002435	skos:Concept	Turquerie					000868		EP346079
+002436	skos:Concept	Tuyau							EP346995
+002437	skos:Concept	Tuyau bouché							
+002438	skos:Concept	Tuyau conique							
+002439	skos:Concept	Tuyau cylindrique							
+002440	skos:Concept	Tuyau cylindro-conique							
+002441	skos:Concept	Tuyau d'orgue							
+002442	skos:Concept	Tuyau fermé							
+002443	skos:Concept	Tuyau ouvert							
+002444	skos:Concept	Typographie					000706		EP345972
+002445	skos:Concept	Université							PMB24544
+002446	skos:Concept	Urusson							
+002447	skos:Concept	Valeur de note							
+002448	skos:Concept	Valse							PMB1727
+002449	skos:Concept	Variation							EP346997
+002450	skos:Concept	Variation instrumentale							PMB1728
+002451	skos:Concept	Variation mélodique							
+002452	skos:Concept	Variation rythmique							
+002453	skos:Concept	Vaudeville					000049		EP346621;PMB1729
+002454	skos:Concept	Vaudeville théâtral					002380		EP346946
+002455	skos:Concept	Veillée							PMB22506
+002456	skos:Concept	Veillée de noël							
+002457	skos:Concept	Vendredi							
+002458	skos:Concept	Vendredi saint							
+002459	skos:Concept	Vénerie							EP346999
+002460	skos:Concept	Vénerie (répertoire)							PMB1730
+002461	skos:Concept	Vents							PMB1731
+002462	skos:Concept	Venus							
+002463	skos:Concept	Vêpres							EP347001;PMB1732
+002464	skos:Concept	Vernis							EP346395
+002465	skos:Concept	Verre							
+002466	skos:Concept	Vers					000973		EP346166
+002467	skos:Concept	Vers saphique							
+002468	skos:Concept	Versailles. société des concerts de versailles							PMB24512
+002469	skos:Concept	Verset alléluiatique							
+002470	skos:Concept	Verset d'hymne							
+002471	skos:Concept	Versification							EP347002;PMB23011
+002472	skos:Concept	Vespéral							
+002473	skos:Concept	Vêture							
+002474	skos:Concept	Vibration de l'air							
+002475	skos:Concept	Vibration de l'eau							
+002476	skos:Concept	Vibration des cordes							
+002477	skos:Concept	Vibration des métaux							
+002478	skos:Concept	Vibration sonore							
+002479	skos:Concept	Vibrato					000048		EP345733
+002480	skos:Concept	Vie artistique							EP347003
+002481	skos:Concept	Vie de cour							PMB22540
+002482	skos:Concept	Vie intellectuelle					002480		EP347005
+002483	skos:Concept	Vie littéraire					002480		EP347006
+002484	skos:Concept	Vie mondaine					002493		EP347063
+002485	skos:Concept	Vie musicale					002480		EP347007;PMB1733
+002486	skos:Concept	Vie musicale à Paris					002485		EP347032
+002487	skos:Concept	Vie musicale de la cour					002485		EP347033
+002488	skos:Concept	Vie musicale en province					002485		EP347034;PMB1734
+002489	skos:Concept	Vie musicale privée					002485		EP347035
+002490	skos:Concept	Vie privée					002493		EP347064
+002491	skos:Concept	Vie quotidienne					002493		EP347065;PMB23417
+002492	skos:Concept	Vie religieuse							EP347039
+002493	skos:Concept	Vie sociale							EP347047
+002494	skos:Concept	Vie du musicien							
+002495	skos:Concept	Vièle							PMB23100
+002496	skos:Concept	Vielle							PMB23451
+002497	skos:Concept	Vielle à roue							PMB1735
+002498	skos:Concept	Vielleur							
+002499	skos:Concept	Vierge							
+002500	skos:Concept	Vierge Marie							PMB1736
+002501	skos:Concept	Vigile							
+002502	skos:Concept	Vignette							
+002503	skos:Concept	Vihuela							PMB1737
+002504	skos:Concept	Villancico							PMB1738
+002505	skos:Concept	Villanella							
+002506	skos:Concept	Villanelle							PMB1739
+002507	skos:Concept	Villanelle danse					000052		EP345756
+002508	skos:Concept	Villanelle poétique							
+002509	skos:Concept	Villanelle vocale					000049		EP346622
+002510	skos:Concept	Viola bastarda							PMB23473
+002511	skos:Concept	Viole d'amour							PMB1740
+002512	skos:Concept	Viole de gambe							PMB1742
+002513	skos:Concept	Viole d'Orphée							PMB1741
+002514	skos:Concept	Violiste							EP347067
+002515	skos:Concept	Violon							PMB1743
+002516	skos:Concept	Violon d'amour							PMB1744
+002517	skos:Concept	Violon du roi							
+002518	skos:Concept	Violoncelle							PMB1745
+002519	skos:Concept	Violoncelliste					001152		EP346466
+002520	skos:Concept	Violoniste					001152		EP346467;PMB1746
+002521	skos:Concept	Virginal							PMB1747
+002522	skos:Concept	Virtuose					002201		EP483931
+002523	skos:Concept	Virtuosité							PMB1748
+002524	skos:Concept	Virtuosité instrumentale							EP347068
+002525	skos:Concept	Virtuosité vocale							
+002526	skos:Concept	Visitation							
+002527	skos:Concept	Vocabulaire					001232		EP346341
+002528	skos:Concept	Voix							EP347070;PMB1749
+002529	skos:Concept	Volte							
+002530	skos:Concept	Volume sonore							
+002531	skos:Concept	Voyage					002480		EP347036
+002532	skos:Concept	Voyage de musicien					002531		EP347037
+002533	skos:Concept	Vraisemblable					001830		EP346775
+002534	skos:Concept	Vraisemblance							
+002535	skos:Concept	Zacharie							PMB1750
+002536	skos:Concept	Zarzuela							PMB1751
+002537	skos:Concept	Zémide							PMB23139
