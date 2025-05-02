@@ -1,6 +1,6 @@
 # Construction de Thésaurus Hiérarchique Automatique (SKOS)
 
-> Première version des fichiers, ces derniers n'ont pas encore été testés.
+> Le constructeur n'est pour l'instant pas très efficace. Des mises à jour arriveront bientôt pour tenter d'améliorer la détection de relations sémantiques entre les termes.
 
 Ce projet permet de structurer automatiquement une liste plate de termes en un **thésaurus SKOS hiérarchique enrichi**.
 
