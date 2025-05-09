@@ -1,6 +1,6 @@
 import argparse
 import logging
-from enhanced_thesaurus_hierarchy import ThesaurusHierarchyBuilder
+from enhanced_thesaurus_hierarchy_v2 import ThesaurusHierarchyBuilder
 
 def main():
     parser = argparse.ArgumentParser(

@@ -185,13 +185,6 @@ class ThesaurusHierarchyBuilder:
                 logger.warning("Utilisation de TF-IDF comme solution de repli pour les embeddings")
                 self.embedding_model = None  # Sera remplacé par TF-IDF si nécessaire
         
-        # Catégories prédéfinies pour le domaine spécifique
-        if domain == "baroque_music":
-            self.predefined_categories = self._define_baroque_music_categories()
-        else:
-            self.predefined_categories = {}  # À remplacer par des catégories spécifiques au domaine
-            logger.warning(f"Aucune catégorie prédéfinie pour le domaine '{domain}'")
-        
         # Attributs pour stocker les données
         self.df = None                  # DataFrame des termes
         self.embeddings = None          # Matrice des embeddings
@@ -207,123 +200,23 @@ class ThesaurusHierarchyBuilder:
         self.timestamp = int(time.time())
         logger.info(f"Constructeur de thésaurus initialisé (ID: {self.timestamp})")
 
-    def _define_baroque_music_categories(self) -> Dict[str, List[str]]:
+    def load_data(self, csv_file: str, term_column: str = "skos:prefLabel", definition_column: str = None) -> pd.DataFrame:
         """
-        Définit les catégories principales pour la musique baroque avec leurs termes caractéristiques.
-        
-        Cette fonction retourne un dictionnaire où chaque clé est une catégorie principale et 
-        la valeur est une liste de mots-clés associés à cette catégorie. Ces mots-clés sont utilisés
-        pour la classification initiale des termes.
-        
-        Returns:
-            Dict[str, List[str]]: Dictionnaire des catégories avec leurs termes représentatifs
-        """
-        return {
-            "Instruments de musique": [
-                "instrument", "violon", "clavecin", "orgue", "luth", "viole", "viole de gambe", 
-                "flûte", "hautbois", "trompette", "cordes", "vents", "clavier", "percussion",
-                "théorbe", "basson", "sacqueboute", "archiluth"
-            ],
-            "Compositeurs baroques": [
-                "bach", "vivaldi", "haendel", "telemann", "couperin", "monteverdi",
-                "scarlatti", "purcell", "lully", "rameau", "buxtehude", "corelli",
-                "charpentier", "pergolesi", "albinoni", "marais", "gabrieli"
-            ],
-            "Formes musicales": [
-                "suite", "sonate", "concerto", "fugue", "toccata", "opéra", "cantate",
-                "oratorio", "passion", "prélude", "aria", "ricercar", "fantaisie",
-                "ouverture", "sarabande", "gigue", "courante", "allemande", "menuet",
-                "partita", "variation", "chaconne", "passacaille"
-            ],
-            "Techniques musicales": [
-                "basso continuo", "contrepoint", "improvisation", "ornement", "variation",
-                "diminution", "articulation", "phrasé", "réalisation", "trille", "mordant",
-                "appoggiature", "port de voix", "coulé", "tierce de picardie"
-            ],
-            "Périodes et styles historiques": [
-                "renaissance", "baroque", "classique", "pré-baroque", "maniérisme",
-                "rococo", "galant", "ancien régime", "baroque ancien", "moyen baroque",
-                "baroque tardif", "prima prattica", "seconda prattica"
-            ],
-            "Nationalités et écoles musicales": [
-                "italien", "allemand", "français", "anglais", "espagnol", "flamand",
-                "napolitain", "vénitien", "romain", "germanique", "hollandais",
-                "bohémien", "autrichien", "portugais", "polonais"
-            ],
-            "Théorie musicale": [
-                "mode", "tempérament", "harmonie", "cadence", "accord", "tonalité",
-                "modulation", "basse chiffrée", "contrebasse", "mésotonique",
-                "intervalle", "consonance", "dissonance", "règle d'octave", "dominante",
-                "sous-dominante", "tonique", "mineur", "majeur", "dorien", "lydien", "mixolydien"
-            ],
-            "Pratique d'exécution": [
-                "authentique", "historique", "interprétation", "édition", "manuscrit",
-                "partition", "traité", "sources", "ornementation", "improvisation",
-                "effectif", "réduction", "réalisation", "temperament", "inégalités",
-                "notes inégales", "instrumentation"
-            ],
-            "Lieux et institutions musicales": [
-                "chapelle", "église", "cathédrale", "cour", "palais", "opéra",
-                "conservatoire", "théâtre", "versailles", "venise", "rome", "leipzig",
-                "vienne", "dresde", "paris", "château", "salon", "académie"
-            ],
-            "Fêtes de saints": [
-                "saint", "sainte", "célébration", "patron", "martyre"
-            ],
-            "Temps liturgiques": [
-                "avent", "carême", "noël", "pâques", "pentecôte", "épiphanie", "temps ordinaire"
-            ],
-            "Offices liturgiques": [
-                "messe", "vêpres", "complies", "matines", "laudes", "prime", "tierce", "sexte", "none"
-            ],
-            "Fêtes civiles et populaires": [
-                "bal", "banquet", "carnaval", "cortège", "spectacle de rue", "feu d'artifice", "divertissement", "fête"
-            ],
-            "Événements officiels": [
-                "couronnement", "naissance", "baptême", "mariage royal", "convalescence", "cartel"
-            ],
-            "Structures sociales": [
-                "association", "académie", "confrérie"
-            ],
-            "Activités musicales": [
-                "création d'œuvre", "diffusion de la musique", "éducation musicale", "enseignement", "patronage"
-            ],
-            "Courants artistiques": [
-                "classicisme", "réalisme", "symbolisme", "exotisme", "galanterie", "humanisme", "ésotérisme"
-            ],
-            "Concepts esthétiques": [
-                "imitation", "influence", "spiritualité", "comique", "regard"
-            ],
-            "Genres littéraires": [
-                "conte", "fable", "dialogue", "livret", "pastiches", "poésie", "chanson"
-            ],
-            "Documents et sources": [
-                "biographie", "correspondance", "catalogue", "inventaire", "essai", "ouvrage", "presse périodique", "document d'archives", "recueil", "livre religieux", "source manuscrite"
-            ],
-            "Genres de théâtre": [
-                "théâtre lyrique", "théâtre parlé", "ballet", "tragédie lyrique"
-            ],
-            "Sciences et musique": [
-                "acoustique", "mathématique", "physique", "instrument de mesure"
-            ],
-        }
-
-    def load_data(self, csv_file: str, term_column: str = "skos:prefLabel") -> pd.DataFrame:
-        """
-        Charge et prépare les données depuis un fichier CSV.
+        Charge et prépare les données depuis un fichier CSV, avec support pour les définitions.
         
         Cette fonction effectue:
         1. Le chargement du fichier CSV
-        2. La détection des colonnes pertinentes
-        3. Un prétraitement initial des termes
+        2. La détection des colonnes pertinentes (termes et définitions)
+        3. Un prétraitement initial des termes et définitions
         
         Parameters:
             csv_file (str): Chemin vers le fichier CSV contenant les termes
             term_column (str): Nom de la colonne contenant les termes principaux
-            
+            definition_column (str, optional): Nom de la colonne contenant les définitions des termes
+                
         Returns:
             pd.DataFrame: DataFrame avec les données chargées et prétraitées
-            
+                
         Raises:
             FileNotFoundError: Si le fichier CSV n'existe pas
             ValueError: Si la structure du fichier ne permet pas l'extraction des termes
@@ -340,7 +233,7 @@ class ThesaurusHierarchyBuilder:
             logger.info(f"Données chargées: {len(self.df)} termes trouvés")
             logger.info(f"Colonnes disponibles: {', '.join(self.df.columns)}")
             
-            # Vérifier si la colonne spécifiée existe
+            # Vérifier si la colonne de termes spécifiée existe
             if term_column not in self.df.columns:
                 available_cols = self.df.columns.tolist()
                 logger.warning(f"Colonne {term_column} non trouvée")
@@ -362,7 +255,19 @@ class ThesaurusHierarchyBuilder:
                     else:
                         raise ValueError("Aucune colonne de texte appropriée trouvée dans le fichier")
             
-            # Vérifier les valeurs manquantes
+            # Recherche de la colonne de définitions si non spécifiée
+            if definition_column is None:
+                potential_def_cols = [col for col in self.df.columns if 
+                                    any(term in col.lower() for term in ['definition', 'desc', 'description', 'meaning', 'sens', 'skos:definition'])]
+                
+                if potential_def_cols:
+                    definition_column = potential_def_cols[0]
+                    logger.info(f"Colonne de définitions détectée automatiquement: {definition_column}")
+            
+            # Enregistrer le nom de la colonne de définitions si trouvée
+            self.definition_column = definition_column
+            
+            # Vérifier les valeurs manquantes dans la colonne de termes
             missing = self.df[term_column].isna().sum()
             if missing > 0:
                 logger.warning(f"{missing} valeurs manquantes trouvées dans la colonne {term_column}")
@@ -377,6 +282,17 @@ class ThesaurusHierarchyBuilder:
             
             # Réinitialiser les index
             self.df = self.df.reset_index(drop=True)
+            
+            # Vérifier et traiter les définitions si la colonne est disponible
+            if definition_column and definition_column in self.df.columns:
+                logger.info(f"Colonne de définitions trouvée: {definition_column}")
+                # Remplacer les valeurs manquantes dans les définitions par une chaîne vide
+                self.df[definition_column] = self.df[definition_column].fillna("")
+                # Prétraiter les définitions
+                self.df = self._preprocess_definitions(self.df, definition_column)
+            else:
+                logger.warning("Aucune colonne de définitions trouvée ou spécifiée")
+                self.definition_column = None
             
             # Prétraitement des termes
             self.df = self._preprocess_terms(self.df, term_column)
@@ -494,18 +410,93 @@ class ThesaurusHierarchyBuilder:
         logger.info(f"Prétraitement terminé en {elapsed_time:.2f} secondes")
         
         return df
+    
+    def _preprocess_definitions(self, df: pd.DataFrame, definition_column: str) -> pd.DataFrame:
+        """
+        Nettoie et prépare les définitions pour l'analyse.
+        
+        Cette fonction effectue plusieurs opérations de prétraitement sur les définitions:
+        1. Nettoyage (minuscules, suppression des caractères spéciaux)
+        2. Analyse linguistique (lemmatisation, extraction de mots-clés)
+        
+        Parameters:
+            df (pd.DataFrame): DataFrame contenant les définitions
+            definition_column (str): Nom de la colonne contenant les définitions
+            
+        Returns:
+            pd.DataFrame: DataFrame enrichi avec les colonnes de prétraitement des définitions
+        """
+        logger.info("Prétraitement linguistique des définitions...")
+        start_time = time.time()
+        
+        # Conserver les définitions originales
+        df['original_definition'] = df[definition_column].copy()
+        
+        # Nettoyage basique des définitions
+        df['clean_definition'] = df[definition_column].str.lower() if pd.api.types.is_string_dtype(df[definition_column]) else df[definition_column].astype(str).str.lower()
+        df['clean_definition'] = df['clean_definition'].apply(lambda x: re.sub(r'[^\w\s]', ' ', str(x)) if pd.notna(x) else "")
+        df['clean_definition'] = df['clean_definition'].apply(lambda x: re.sub(r'\s+', ' ', x).strip())
+        
+        # Analyse linguistique avec spaCy pour les définitions
+        logger.info("Analyse linguistique des définitions avec spaCy...")
+        
+        # Utiliser un traitement par lots pour plus d'efficacité
+        batch_size = 100
+        all_results = []
+        
+        # Traiter les définitions par lots
+        for i in range(0, len(df), batch_size):
+            batch = df['clean_definition'].iloc[i:i+batch_size].tolist()
+            # Traiter les définitions avec spaCy
+            docs = list(self.nlp.pipe(batch))
+            
+            # Extraire les informations linguistiques
+            batch_results = []
+            for doc in docs:
+                # Extraire les lemmes (formes de base des mots)
+                lemmas = [token.lemma_ for token in doc if not token.is_stop and token.is_alpha]
+                
+                # Extraire les mots-clés (noms, adjectifs, verbes significatifs)
+                keywords = [token.text for token in doc if token.pos_ in ["NOUN", "ADJ", "VERB"] and not token.is_stop]
+                
+                # Identifier les termes d'entité nommée spécifiques au domaine musical
+                music_entities = [token.text for token in doc if any(music_term in token.text.lower() 
+                                                                for music_term in ["baroque", "musique", "instrument", 
+                                                                                "note", "composition", "harmonie", 
+                                                                                "mélodie", "rythme", "accord"])]
+                
+                batch_results.append({
+                    "def_lemma": " ".join(lemmas),
+                    "def_keywords": keywords,
+                    "def_music_entities": music_entities,
+                    "def_length": len(doc)
+                })
+            
+            all_results.extend(batch_results)
+        
+        # Ajouter les résultats au DataFrame
+        df['def_lemmatized'] = [result["def_lemma"] for result in all_results]
+        df['def_keywords'] = [result["def_keywords"] for result in all_results]
+        df['def_music_entities'] = [result["def_music_entities"] for result in all_results]
+        df['def_length'] = [result["def_length"] for result in all_results]
+        
+        elapsed_time = time.time() - start_time
+        logger.info(f"Prétraitement des définitions terminé en {elapsed_time:.2f} secondes")
+        
+        return df
 
     def generate_embeddings(self) -> np.ndarray:
         """
-        Génère des représentations vectorielles (embeddings) pour tous les termes.
+        Génère des représentations vectorielles (embeddings) pour tous les termes,
+        en incorporant les définitions lorsque disponibles.
         
-        Cette fonction utilise soit un modèle SentenceTransformer préchargé, soit TF-IDF
-        comme solution de repli, pour créer des vecteurs représentant la sémantique des termes.
-        Ces embeddings sont essentiels pour les calculs de similarité et le clustering.
+        Cette fonction utilise un modèle SentenceTransformer ou TF-IDF pour créer des vecteurs
+        représentant la sémantique des termes et des définitions. Les embeddings sont combinés
+        avec une pondération configurable pour refléter l'importance relative des termes et des définitions.
         
         Returns:
-            np.ndarray: Matrice des embeddings (n_terms × embedding_dim)
-            
+            np.ndarray: Matrice des embeddings combinés (n_terms × embedding_dim)
+                
         Raises:
             ValueError: Si aucune donnée n'a été chargée auparavant
         """
@@ -518,27 +509,72 @@ class ThesaurusHierarchyBuilder:
         # Utiliser les termes nettoyés pour les embeddings
         terms = self.df['clean_term'].tolist()
         
+        # Facteur de pondération pour combiner les embeddings des termes et des définitions
+        # Valeur entre 0 et 1, où 1 signifie "uniquement les termes" et 0 "uniquement les définitions"
+        term_weight = 0.6  # 60% terme, 40% définition
+        
         try:
-            # Si un modèle d'embedding est disponible, l'utiliser
+            # Générer les embeddings pour les termes
             if self.embedding_model is not None:
                 logger.info("Utilisation du modèle SentenceTransformer pour les embeddings")
-                self.embeddings = self.embedding_model.encode(
+                term_embeddings = self.embedding_model.encode(
                     terms, 
                     show_progress_bar=True,
                     batch_size=32,
                     convert_to_numpy=True
                 )
-                logger.info(f"Embeddings générés avec SentenceTransformer. Dimension: {self.embeddings.shape}")
+                logger.info(f"Embeddings des termes générés. Dimension: {term_embeddings.shape}")
+                
+                # Si des définitions sont disponibles, générer leurs embeddings
+                if self.definition_column is not None:
+                    logger.info("Génération des embeddings pour les définitions...")
+                    definitions = self.df['clean_definition'].tolist()
+                    
+                    definition_embeddings = self.embedding_model.encode(
+                        definitions,
+                        show_progress_bar=True,
+                        batch_size=32,
+                        convert_to_numpy=True
+                    )
+                    logger.info(f"Embeddings des définitions générés. Dimension: {definition_embeddings.shape}")
+                    
+                    # Combiner les embeddings avec la pondération spécifiée
+                    logger.info(f"Combinaison des embeddings (pondération: {term_weight:.2f} terme, {1-term_weight:.2f} définition)")
+                    self.embeddings = term_weight * term_embeddings + (1 - term_weight) * definition_embeddings
+                    logger.info(f"Embeddings combinés générés. Dimension: {self.embeddings.shape}")
+                else:
+                    # Utiliser uniquement les embeddings des termes si pas de définitions
+                    self.embeddings = term_embeddings
+                    
             else:
                 # Solution de repli: utiliser TF-IDF
                 logger.info("Utilisation de TF-IDF pour les embeddings (solution de repli)")
-                vectorizer = TfidfVectorizer(
-                    max_features=300,
-                    ngram_range=(1, 2),
-                    min_df=2,
-                    max_df=0.9
-                )
-                self.embeddings = vectorizer.fit_transform(terms).toarray()
+                
+                if self.definition_column is not None:
+                    # Combiner les termes et les définitions pour TF-IDF
+                    combined_texts = [
+                        f"{term} {definition}" 
+                        if definition else term
+                        for term, definition in zip(terms, self.df['clean_definition'].tolist())
+                    ]
+                    
+                    vectorizer = TfidfVectorizer(
+                        max_features=300,
+                        ngram_range=(1, 2),
+                        min_df=2,
+                        max_df=0.9
+                    )
+                    self.embeddings = vectorizer.fit_transform(combined_texts).toarray()
+                else:
+                    # TF-IDF uniquement sur les termes
+                    vectorizer = TfidfVectorizer(
+                        max_features=300,
+                        ngram_range=(1, 2),
+                        min_df=2,
+                        max_df=0.9
+                    )
+                    self.embeddings = vectorizer.fit_transform(terms).toarray()
+                    
                 logger.info(f"Embeddings TF-IDF générés. Dimension: {self.embeddings.shape}")
             
             # Calculer la matrice de similarité entre tous les termes
@@ -552,14 +588,26 @@ class ThesaurusHierarchyBuilder:
             logger.info(f"Génération des embeddings terminée en {elapsed_time:.2f} secondes")
             
             return self.embeddings
-            
+                
         except Exception as e:
             logger.error(f"Erreur lors de la génération des embeddings: {e}")
             
             # Solution de secours: utiliser TF-IDF si tout échoue
             logger.info("Utilisation de TF-IDF comme alternative après erreur")
-            vectorizer = TfidfVectorizer(max_features=100)
-            self.embeddings = vectorizer.fit_transform(terms).toarray()
+            
+            if self.definition_column is not None:
+                # Combiner les termes et définitions
+                combined_texts = [
+                    f"{term} {definition}" 
+                    if definition else term
+                    for term, definition in zip(terms, self.df['clean_definition'].tolist())
+                ]
+                vectorizer = TfidfVectorizer(max_features=100)
+                self.embeddings = vectorizer.fit_transform(combined_texts).toarray()
+            else:
+                vectorizer = TfidfVectorizer(max_features=100)
+                self.embeddings = vectorizer.fit_transform(terms).toarray()
+                
             logger.info(f"Embeddings TF-IDF générés comme solution de secours. Dimension: {self.embeddings.shape}")
             
             # Matrice de similarité de secours
@@ -667,95 +715,27 @@ class ThesaurusHierarchyBuilder:
         if self.embeddings is None:
             raise ValueError("Les embeddings n'ont pas été générés. Utilisez d'abord la méthode generate_embeddings().")
         
-        # 1. Classification basée sur les prédéfinitions du domaine
-        self._classify_by_domain_rules()
-        
-        # 2. Détermination du nombre optimal de clusters si non spécifié
+        # 1. Détermination du nombre optimal de clusters si non spécifié
         if n_clusters is None:
             n_clusters = self._determine_optimal_clusters()
             logger.info(f"Nombre optimal de clusters déterminé: {n_clusters}")
         
-        # 3. Classification par clustering
+        # 2. Classification par clustering
         self._apply_clustering(n_clusters)
         
-        # 4. Classification par analyse linguistique
+        # 3. Classification par analyse linguistique
         self._classify_by_linguistic_features()
         
-        # 5. Fusion des classifications pour obtenir une classification finale
+        # 4. Fusion des classifications pour obtenir une classification finale
         self._merge_classifications()
         
-        # 6. Analyse des résultats de classification
+        # 5. Analyse des résultats de classification
         self._analyze_classification_results()
         
         elapsed_time = time.time() - start_time
         logger.info(f"Classification terminée en {elapsed_time:.2f} secondes")
         
         return self.df
-
-    def _classify_by_domain_rules(self) -> None:
-        """
-        Classifie les termes en utilisant les catégories prédéfinies spécifiques au domaine.
-        
-        Cette méthode associe chaque terme à une ou plusieurs catégories prédéfinies
-        en fonction des mots-clés caractéristiques de chaque catégorie. Pour la musique baroque,
-        les catégories incluent les instruments, compositeurs, formes musicales, etc.
-        """
-        logger.info("Classification basée sur les règles spécifiques au domaine...")
-        
-        # Initialiser la colonne pour les catégories basées sur les règles du domaine
-        self.df['domain_category'] = None
-        self.df['domain_category_score'] = 0.0
-        
-        # Si aucune catégorie prédéfinie, passer cette étape
-        if not self.predefined_categories:
-            logger.warning("Aucune catégorie prédéfinie disponible pour le domaine. Étape ignorée.")
-            return
-        
-        # Pour chaque terme, vérifier sa correspondance avec chaque catégorie
-        for idx, row in self.df.iterrows():
-            term_text = row['clean_term'].lower()
-            lemmatized_text = row['lemmatized'].lower()
-            tokens = row['tokens']
-            
-            best_category = None
-            best_score = 0.0
-            
-            # Parcourir toutes les catégories prédéfinies
-            for category, keywords in self.predefined_categories.items():
-                # Calculer un score de correspondance basé sur les mots-clés
-                score = 0.0
-                
-                # Vérifier les correspondances exactes (plus fort poids)
-                if any(kw.lower() == term_text for kw in keywords):
-                    score += 5.0
-                
-                # Vérifier les correspondances partielles
-                for kw in keywords:
-                    kw_lower = kw.lower()
-                    # Correspondance par inclusion
-                    if kw_lower in term_text:
-                        score += 2.0
-                    # Correspondance par token
-                    if any(kw_lower == token.lower() for token in tokens):
-                        score += 3.0
-                    # Correspondance par lemme
-                    if kw_lower in lemmatized_text:
-                        score += 1.5
-                
-                # Si ce score est meilleur que le précédent, mettre à jour
-                if score > best_score:
-                    best_score = score
-                    best_category = category
-            
-            # N'assigner une catégorie que si le score dépasse un seuil
-            threshold = 1.5
-            if best_score > threshold:
-                self.df.at[idx, 'domain_category'] = best_category
-                self.df.at[idx, 'domain_category_score'] = best_score
-        
-        # Compter combien de termes ont été classifiés
-        classified_count = self.df['domain_category'].notna().sum()
-        logger.info(f"{classified_count} termes classifiés par règles de domaine ({classified_count/len(self.df)*100:.1f}%)")
 
     def _determine_optimal_clusters(self, min_clusters: int = 3, max_clusters: int = 20) -> int:
         """
@@ -1076,12 +1056,7 @@ class ThesaurusHierarchyBuilder:
         self.df['secondary_category'] = None
         self.df['category_confidence'] = 0.0
         
-        # 2. Priorité aux catégories de domaine (si disponibles)
-        domain_classified = self.df['domain_category'].notna()
-        self.df.loc[domain_classified, 'main_category'] = self.df.loc[domain_classified, 'domain_category']
-        self.df.loc[domain_classified, 'category_confidence'] = self.df.loc[domain_classified, 'domain_category_score'] / 10.0
-        
-        # 3. Pour les termes sans catégorie de domaine, utiliser kmeans puis la communauté
+        # 2. Utiliser kmeans puis la communauté
         for idx, row in self.df.iterrows():
             if pd.isna(row['main_category']):
                 if 'community' in self.df.columns and row['community'] != -1:
@@ -1089,16 +1064,10 @@ class ThesaurusHierarchyBuilder:
                     
                     # Trouver le nom de la catégorie le plus fréquent dans cette communauté
                     community_terms = self.df[self.df['community'] == community_id]
-                    domain_cats = community_terms['domain_category'].dropna()
                     
-                    if not domain_cats.empty:
-                        most_common = domain_cats.value_counts().index[0]
-                        self.df.at[idx, 'main_category'] = most_common
-                        self.df.at[idx, 'category_confidence'] = 0.6
-                    else:
-                        # Si pas de nom de catégorie disponible, utiliser "Groupe X"
-                        self.df.at[idx, 'main_category'] = f"Groupe {community_id}"
-                        self.df.at[idx, 'category_confidence'] = 0.4
+                    # Si pas de nom de catégorie disponible, utiliser "Groupe X"
+                    self.df.at[idx, 'main_category'] = f"Groupe {community_id}"
+                    self.df.at[idx, 'category_confidence'] = 0.4
                 
                 # Utiliser kmeans si communauté non disponible
                 elif 'kmeans_cluster' in self.df.columns and row['kmeans_cluster'] != -1:
@@ -1106,31 +1075,22 @@ class ThesaurusHierarchyBuilder:
                     
                     # Trouver le nom de la catégorie le plus fréquent dans ce cluster
                     cluster_terms = self.df[self.df['kmeans_cluster'] == cluster_id]
-                    domain_cats = cluster_terms['domain_category'].dropna()
                     
-                    if not domain_cats.empty:
-                        most_common = domain_cats.value_counts().index[0]
-                        self.df.at[idx, 'main_category'] = most_common
-                        self.df.at[idx, 'category_confidence'] = 0.5
-                    else:
-                        self.df.at[idx, 'main_category'] = f"Cluster {cluster_id}"
-                        self.df.at[idx, 'category_confidence'] = 0.3
+                    self.df.at[idx, 'main_category'] = f"Cluster {cluster_id}"
+                    self.df.at[idx, 'category_confidence'] = 0.3
                 
                 # En dernier recours, utiliser la catégorie linguistique
                 else:
                     self.df.at[idx, 'main_category'] = row['linguistic_category'].capitalize() if pd.notna(row['linguistic_category']) else "Non classifié"
                     self.df.at[idx, 'category_confidence'] = 0.2
         
-        # 4. Déterminer les catégories secondaires
+        # 3. Déterminer les catégories secondaires
         for idx, row in self.df.iterrows():
-            # Si une catégorie de domaine existe mais n'est pas la principale
-            if pd.notna(row['domain_category']) and row['domain_category'] != row['main_category']:
-                self.df.at[idx, 'secondary_category'] = row['domain_category']
             # Sinon, utiliser la catégorie linguistique si différente
-            elif pd.notna(row['linguistic_category']) and row['linguistic_category'].capitalize() != row['main_category']:
+            if pd.notna(row['linguistic_category']) and row['linguistic_category'].capitalize() != row['main_category']:
                 self.df.at[idx, 'secondary_category'] = row['linguistic_category'].capitalize()
         
-        # 5. Calculer des statistiques sur la classification finale
+        # 4. Calculer des statistiques sur la classification finale
         cat_counts = self.df['main_category'].value_counts()
         main_categories = cat_counts.index.tolist()
         n_categories = len(main_categories)
@@ -1138,7 +1098,7 @@ class ThesaurusHierarchyBuilder:
         logger.info(f"Classification finale: {n_categories} catégories principales identifiées")
         logger.info(f"Top 5 catégories: {', '.join(main_categories[:5] if len(main_categories) >= 5 else main_categories)}")
         
-        # 6. Créer une visualisation des catégories principales
+        # 5. Créer une visualisation des catégories principales
         try:
             plt.figure(figsize=(12, 8))
             cat_counts_visual = cat_counts.head(15)  # Limiter aux 15 plus grandes catégories
